@@ -48,7 +48,7 @@
 #undef	 GPS_DEBUG_TOKEN	/* print out NMEA tokens */
 
 #define  DFR(...)   ALOGD(__VA_ARGS__)
-
+#define GPS_DEBUG
 #ifdef GPS_DEBUG
 #  define  D(...)   ALOGD(__VA_ARGS__)
 #else
@@ -60,7 +60,7 @@
     GpsStatus gps_status;         \
     gps_status.status = (_s);     \
     (_cb).status_cb(&gps_status); \
-    DFR("gps status callback: 0x%x", _s); \
+    DFR("gps status callback: 0x%x\n", _s); \
   }
 
 /* Nmea Parser stuff */
@@ -170,7 +170,7 @@ static void gps_timer_thread( void*  arg );
 /*****                                                       *****/
 /*****************************************************************/
 /*****************************************************************/
-
+#define property_get(x,y,z)     (1)
 #ifdef ATHR_GPSNi
 static void ath_send_ni_notification(NmeaReader* r)
 {
@@ -882,15 +882,15 @@ athr_reader_parse( char* buf, int length)
 {
     int cnt;
 
-    D("athr_reader_parse. %.*s (%d)", length, buf, length );
+    D("athr_reader_parse. %.*s (%d)\n", length, buf, length );
     if (length < 9) {
-        D("ATH command too short. discarded.");
+        D("ATH command too short. discarded.\n");
         return;
     }
 
     /* for NMEAListener callback */
     if (gps_state->callbacks.nmea_cb) {
-        D("NMEAListener callback for ATHR... ");
+        D("NMEAListener callback for ATHR... \n");
         struct timeval tv;
         unsigned long long mytimems;
 
@@ -899,7 +899,7 @@ athr_reader_parse( char* buf, int length)
 
         gps_state->callbacks.nmea_cb(mytimems, buf, length);
 
-        D("NMEAListener callback for ATHR sentences ended... ");
+        D("NMEAListener callback for ATHR sentences ended... \n");
     }
 }
 
@@ -966,7 +966,7 @@ gps_state_done( GpsState*  s )
     do { ret=write( s->control[0], &cmd, 1 ); }
     while (ret < 0 && errno == EINTR);
 
-    DFR("gps waiting for command thread to stop");
+    DFR("gps waiting for command thread to stop\n");
 	gps_sleep(s);
 
     pthread_join(s->thread, &dummy);
@@ -992,7 +992,7 @@ static int athr_run_hook(char* name)
     char   buf[PROPERTY_VALUE_MAX + 20];
     if (property_get("athr.gps.hookspath",prop,"") == 0)
 	{
-        ALOGE("%s: athr.gps.hookspath property is not set", __FUNCTION__);
+        ALOGE("%s: athr.gps.hookspath property is not set\n", __FUNCTION__);
 		return 0;
     }
     sprintf(buf,"%s/%s" , prop, name);
@@ -1021,16 +1021,16 @@ void gps_wakeup(GpsState *state)
 
 		if (athr_run_hook_start())
 		{
-			D("%s: Hook says: quit now", __FUNCTION__);
+			D("%s: Hook says: quit now\n", __FUNCTION__);
 		}
 		else
 		{
-			D("Send WAKEUP command to GPS");
+			D("Send WAKEUP command to GPS\n");
 			sleep_lock = time((time_t*)NULL);
 			/* send $PUNV,WAKEUP command*/
 			if (write(state->fd, "$PUNV,WAKEUP*2C\r\n", 17) < 0)
 			{
-				D("Send WAKEUP command ERROR!");
+				D("Send WAKEUP command ERROR!\n");
 				bOrionShutdown = 1;
 			}
 			else
@@ -1080,18 +1080,18 @@ gps_state_start( GpsState*  s )
 {
     char  cmd = CMD_START;
     int   ret;
-	DFR("%s", __FUNCTION__);
+	DFR("%s\n", __FUNCTION__);
 
 	gps_state_lock_fix(s);
 	lastcmd = CMD_START;
 	gps_state_unlock_fix(s);
 
-
+    printf("==>%s:s->control[%d]\n", __FUNCTION__, s->control[0]);
     do { ret=write( s->control[0], &cmd, 1 ); }
     while (ret < 0 && errno == EINTR);
 
     if (ret != 1)
-        D("%s: could not send CMD_START command: ret=%d: %s", __FUNCTION__, ret, strerror(errno));
+        D("%s: could not send CMD_START command: ret=%d: %s\n", __FUNCTION__, ret, strerror(errno));
 }
 
 
@@ -1113,14 +1113,14 @@ gps_state_stop( GpsState*  s )
 		ret=write( s->control[0], &cmd, 1 );
 		if(ret < 0)
 		{
-			ALOGE("write control socket error %s", strerror(errno));
+			ALOGE("write control socket error %s\n", strerror(errno));
 			sleep(1);
 		}
 	}
     while (ret < 0 && errno == EINTR);
 
     if (ret != 1)
-        D("%s: could not send CMD_STOP command: ret=%d: %s",
+        D("%s: could not send CMD_STOP command: ret=%d: %s\n",
           __FUNCTION__, ret, strerror(errno));
 }
 
@@ -1175,12 +1175,12 @@ gps_state_thread( void*  arg )
     // register control file descriptors for polling
     epoll_register( epoll_ctrlfd, control_fd );
 
-    D("gps thread running");
+    D("gps thread running\n");
 
 	state->tmr_thread = state->callbacks.create_thread_cb("athr_gps_tmr", gps_timer_thread, state);
 	if (!state->tmr_thread)
 	{
-		ALOGE("could not create gps timer thread: %s", strerror(errno));
+		ALOGE("could not create gps timer thread: %s\n", strerror(errno));
 		started = 0;
 		state->init = STATE_INIT;
 		goto Exit;
@@ -1189,7 +1189,7 @@ gps_state_thread( void*  arg )
 	state->nmea_thread = state->callbacks.create_thread_cb("athr_nmea_thread", gps_nmea_thread, state);
 	if (!state->nmea_thread)
 	{
-		ALOGE("could not create gps nmea thread: %s", strerror(errno));
+		ALOGE("could not create gps nmea thread: %s\n", strerror(errno));
 		started = 0;
 		state->init = STATE_INIT;
 		goto Exit;
@@ -1206,13 +1206,13 @@ gps_state_thread( void*  arg )
         nevents = epoll_wait( epoll_ctrlfd, events, 1, -1 );
         if (nevents < 0) {
             if (errno != EINTR)
-                ALOGE("epoll_wait() unexpected error: %s", strerror(errno));
+                ALOGE("epoll_wait() unexpected error: %s\n", strerror(errno));
             continue;
         }
         // D("gps thread received %d events", nevents);
         for (ne = 0; ne < nevents; ne++) {
             if ((events[ne].events & (EPOLLERR|EPOLLHUP)) != 0) {
-                ALOGE("EPOLLERR or EPOLLHUP after epoll_wait() !?");
+                ALOGE("EPOLLERR or EPOLLHUP after epoll_wait() !?\n");
                 goto Exit;
             }
             if ((events[ne].events & EPOLLIN) != 0) {
@@ -1222,13 +1222,13 @@ gps_state_thread( void*  arg )
                 {
                     char  cmd = 255;
                     int   ret;
-                    D("gps control fd event");
+                    D("gps control fd event\n");
                     do {
                         ret = read( fd, &cmd, 1 );
                     } while (ret < 0 && errno == EINTR);
 
                     if (cmd == CMD_QUIT) {
-                        D("gps thread quitting on demand");
+                        D("gps thread quitting on demand\n");
                         goto Exit;
                     }
                     else if (cmd == CMD_START)
@@ -1238,14 +1238,14 @@ gps_state_thread( void*  arg )
 							NmeaReader  *reader;
 							reader = &state->reader;
 							nmea_reader_init( reader );
-                            D("gps thread starting  location_cb=%p", state->callbacks.location_cb);
+                            D("gps thread starting  location_cb=%p\n", state->callbacks.location_cb);
                             started = 1;
                             state->init = STATE_START;
 							/* handle wakeup routine*/
 							gps_wakeup(state);
                         }
 						else
-							D("LM already start");
+							D("LM already start\n");
 
                     }
                     else if (cmd == CMD_STOP) {
@@ -1256,7 +1256,7 @@ gps_state_thread( void*  arg )
                 }
                 else
                 {
-                    ALOGE("epoll_wait() returned unkown fd %d ?", fd);
+                    ALOGE("epoll_wait() returned unkown fd %d ?\n", fd);
 					gps_fd = _gps_state->fd; //resign fd to gps_fd
                 }
             }
@@ -1270,7 +1270,7 @@ Exit:
 		close(epoll_nmeafd);
 		pthread_join(state->tmr_thread, &dummy);
 		pthread_join(state->nmea_thread, &dummy);
-		DFR("gps control thread destroyed");
+		DFR("gps control thread destroyed\n");
 	}
     return;
 }
@@ -1282,7 +1282,7 @@ gps_nmea_thread( void*  arg )
 	NmeaReader  *reader;
     reader = &state->reader;
 
-	DFR("gps entered nmea thread");
+	DFR("gps entered nmea thread\n");
 	int versioncnt = 0;
 
    // now loop
@@ -1305,7 +1305,7 @@ gps_nmea_thread( void*  arg )
 
 		if(bOrionShutdown && started) // Orion be shutdown but LM is started, try to wake it up.
 		{
-			ALOGI("Try to wake orion up after 5 secs");
+			ALOGI("Try to wake orion up after 5 secs\n");
 			sleep_lock = 0;
 			sleep(5);
 			GPS_STATUS_CB(state->callbacks, GPS_STATUS_SESSION_BEGIN);
@@ -1334,7 +1334,7 @@ gps_nmea_thread( void*  arg )
 			{
 				if (strstr(buf, "CFG_R"))
 				{
-					ALOGI("ver %s",buf);
+					ALOGI("ver %s\n",buf);
 				}
 
 				for (nn = 0; nn < ret; nn++)
@@ -1342,7 +1342,7 @@ gps_nmea_thread( void*  arg )
 
 				/* ATHR in/out sentences*/
 				if ((buf[0] == 'O') && (buf[1] == 'A') && (buf[2] == 'P')) {
-					D("OAP200 sentences found");
+					D("OAP200 sentences found\n");
 					athr_reader_parse(buf, ret);
 					/*
 					for (nn = 0; nn < ret; nn++)
@@ -1351,13 +1351,13 @@ gps_nmea_thread( void*  arg )
 				}else if ((buf[0] == '#') && (buf[1] == '!') && \
 						  (buf[2] == 'G') && (buf[3] == 'S') && \
 						  (buf[4] == 'M') && (buf[5] == 'A')) {
-					D("GSMA sentences found");
+					D("GSMA sentences found\n");
 					athr_reader_parse(buf, ret);
 				}
 			}
 			else
 			{
-				DFR("Error on NMEA read :%s",strerror(errno));
+				DFR("Error on NMEA read :%s\n",strerror(errno));
 				gps_closetty(state);
 				GPS_STATUS_CB(state->callbacks, GPS_STATUS_SESSION_END);
 				sleep(3); //wait Orion shutdown.
@@ -1370,7 +1370,7 @@ gps_nmea_thread( void*  arg )
 			break;
 	}
 Exit:
-	DFR("gps nmea thread destroyed");
+	DFR("gps nmea thread destroyed\n");
 	return;
 }
 
@@ -1382,7 +1382,7 @@ gps_timer_thread( void*  arg )
 
   GpsState *state = (GpsState *)arg;
 
-  DFR("gps entered timer thread");
+  DFR("gps entered timer thread\n");
 
   do {
 
@@ -1427,13 +1427,13 @@ gps_timer_thread( void*  arg )
     if (need_sleep) {
         sleep(sleep_val);
     } else {
-        D("won't sleep because fix_freq=%d state->init=%d",state->fix_freq, state->init);
+        D("won't sleep because fix_freq=%d state->init=%d\n",state->fix_freq, state->init);sleep(2);//add by joy
     }
     ath_send_ni_notification(&state->reader);
 	if( state->init == STATE_INIT && lastcmd == CMD_STOP && started == 1)
 	{
 		int gap = 0;
-		D("Wait for NMEA coming,%d,%d,%d", state->init , lastcmd, started);
+		D("Wait for NMEA coming,%d,%d,%d\n", state->init , lastcmd, started);
 
 		while (state->init != STATE_START && bGetFormalNMEA == 0 && continue_thread && !bOrionShutdown)
 		{
@@ -1442,7 +1442,7 @@ gps_timer_thread( void*  arg )
 				break;
 		} ;
 
-		D("Get NMEA %d and state %d",bGetFormalNMEA,state->init);
+		D("Get NMEA %d and state %d\n",bGetFormalNMEA,state->init);
 		// even we don't get nmea after 30 second, still force close it
 		bGetFormalNMEA |= (gap >= 100);
 
@@ -1452,25 +1452,25 @@ gps_timer_thread( void*  arg )
 		}
 		else
 		{
-			D("User enter LM before sending sleep, so drop it");
+			D("User enter LM before sending sleep, so drop it\n");
 		}
 	}
 
   } while(continue_thread);
 
 
-  DFR("gps timer thread destroyed");
+  DFR("gps timer thread destroyed\n");
 
   return;
 
 }
 
-static char   prop[PROPERTY_VALUE_MAX];
+static char   prop[PROPERTY_VALUE_MAX]; /* need to modify. by joy */
 
 int gps_opentty(GpsState *state)
 {
 
-	DFR("%s", __FUNCTION__);
+	DFR("%s\n", __FUNCTION__);
 
 	if(strlen(prop) <= 0)
 	{
@@ -1500,12 +1500,12 @@ int gps_opentty(GpsState *state)
 
         if (state->fd < 0)
         {
-            ALOGE("could not open gps serial device %s: %s", prop, strerror(errno) );
+            ALOGE("could not open gps serial device %s: %s\n", prop, strerror(errno) );
             return -1;
         }
     }
 
-    D("gps will read from %s", prop);
+    D("gps will read from %s\n", prop);
 
     // disable echo on serial lines
     if ( isatty( state->fd ) ) {
@@ -1584,18 +1584,18 @@ gps_state_init( GpsState*  state )
 
 
     if ( socketpair( AF_LOCAL, SOCK_STREAM, 0, state->control ) < 0 ) {
-        ALOGE("could not create thread control socket pair: %s", strerror(errno));
+        ALOGE("could not create thread control socket pair: %s\n", strerror(errno));
         goto Fail;
     }
 
 	state->thread = state->callbacks.create_thread_cb("athr_gps", gps_state_thread, state);
-        if (!state->thread)
+    if (!state->thread)
 	{
-        ALOGE("could not create gps thread: %s", strerror(errno));
+        ALOGE("could not create gps thread: %s\n", strerror(errno));
         goto Fail;
     }
-        state->callbacks.set_capabilities_cb(GPS_CAPABILITY_SCHEDULING);
-	D("gps state initialized");
+    state->callbacks.set_capabilities_cb(GPS_CAPABILITY_SCHEDULING);
+	D("gps state initialized\n");
 
     return;
 
@@ -1617,7 +1617,7 @@ static int athr_gps_init(GpsCallbacks* callbacks)
 {
     GpsState*  s = _gps_state;
 
-	D("gps state initializing %d",s->init);
+	D("gps state initializing %d\n",s->init);
 
     s->callbacks = *callbacks;
     if (!s->init)
@@ -1634,7 +1634,7 @@ athr_gps_cleanup(void)
 {
     GpsState*  s = _gps_state;
 
-	D("%s: called", __FUNCTION__);
+	D("%s: called\n", __FUNCTION__);
 
     if (s->init)
         gps_state_done(s);
@@ -1643,11 +1643,11 @@ athr_gps_cleanup(void)
 static int athr_gps_start()
 {
     GpsState*  s = _gps_state;
-	D("%s: called", __FUNCTION__ );
+	D("%s: called\n", __FUNCTION__ );
 
 	if(gps_checkstate(s) == -1)
 	{
-		DFR("%s: called with uninitialized state !!", __FUNCTION__);
+		DFR("%s: called with uninitialized state !!\n", __FUNCTION__);
 		return -1;
 	}
 	gps_state_start(s);
@@ -1769,7 +1769,7 @@ int gps_checkstate(GpsState *s)
 
 		if(!s->init)
 		{
-			ALOGE("%s: still called with uninitialized state !!", __FUNCTION__);
+			ALOGE("%s: still called with uninitialized state !!\n", __FUNCTION__);
 			return -1;
 		}
     }
@@ -1796,21 +1796,21 @@ static int athr_gps_xtra_inject_data(char *data, int length)
     GpsState*  s = _gps_state;
     int cnt;
 
-    D("%s: entered, data: %.2x (len: %d)", __FUNCTION__, *data, length);
+    D("%s: entered, data: %.2x (len: %d)\n", __FUNCTION__, *data, length);
 
     if (write(s->fd, data, length) < 0)
     {
-      D("Send $PUNV command ERROR!");
+      D("Send $PUNV command ERROR!\n");
       return -1;
     }
 
 #ifdef GPS_DEBUG
     /* debug */
-    D("inject cmds: ");
+    D("inject cmds: \n");
     for (cnt=0; cnt<length; cnt++)
       D("%.2x (%d) ", data[cnt], data[cnt]);
     /* end debug */
-    D("%s: closed", __FUNCTION__);
+    D("%s: closed\n", __FUNCTION__);
 #endif
     return 0;
 }
@@ -1830,7 +1830,7 @@ static void athr_gps_ni_init(GpsNiCallbacks* callbacks)
 {
     GpsState*  s = _gps_state;
 
-    D("%s: entered", __FUNCTION__);
+    D("%s: entered\n", __FUNCTION__);
 
     if (callbacks)
     {
@@ -1870,7 +1870,7 @@ static const void* athr_gps_get_extension(const char* name)
         return (&athrGpsNiInterface);
 #endif // ATHR_GPSNi
     }
-    D("%s: no GPS extension for %s is found", __FUNCTION__, name);
+    D("%s: no GPS extension for %s is found\n", __FUNCTION__, name);
     return NULL;
 }
 

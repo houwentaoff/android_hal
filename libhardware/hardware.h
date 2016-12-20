@@ -51,9 +51,17 @@ __BEGIN_DECLS
 #define ALOGV printf
 #define ALOGE(...) printf("E/" __VA_ARGS__)
 
+#define ALOGD(...)      fprintf(stderr, __VA_ARGS__)
+#define ALOGI(...)      fprintf(stdout, __VA_ARGS__)
+
 #ifndef AF_LOCAL
 #define AF_LOCAL AF_UNIX
 #endif
+
+#define false (0)
+#define true  (!false)
+
+typedef int bool;
 
 #define MAKE_TAG_CONSTANT(A,B,C,D) (((A) << 24) | ((B) << 16) | ((C) << 8) | (D))
 

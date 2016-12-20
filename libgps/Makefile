@@ -4,7 +4,7 @@ ifneq ($(PC), 1)
 
 ifneq (buildroot, $(findstring buildroot, $(CC)))
 #all:tips_warning 
-all:tips lib
+all:tips lib  
 else
 all:tips lib 
 endif
@@ -41,11 +41,12 @@ CFLAGS+=$(INC)
 LDFLAGS+=$(LD)
 
 lib:gps.o athr_gps.o
-	$(AR) rucs libpgs.a $^ 
+	$(AR) rucs libgps.a $^ 
+	$(CC) -shared -fPIC -o libgps.so $^ -lm -lpthread
 
 %.o:%.c
 	$(CC) -g -c $(CFLAGS) $< -o $@
 
 clean:
-	-@$(RM) *.o *.a
+	-@$(RM) *.o *.a *.so
 .PHONY:clean

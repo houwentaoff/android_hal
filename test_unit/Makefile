@@ -34,7 +34,8 @@ else
 INC+=
 endif
 
-LD:=-ldl -L$(TOP_DIR)/libgps -lgps -L$(TOP_DIR)/libhardware -lhardware
+#LD:= -L$(TOP_DIR)/libgps -lgps -L$(TOP_DIR)/libhardware -lhardware -ldl
+LD:= -L$(TOP_DIR)/libhardware -lhardware -ldl -lpthread
 
 CFLAGS+=$(INC)
 
