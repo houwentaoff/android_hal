@@ -127,6 +127,12 @@ GpsGeofenceCallbacks sGpsGeofenceCallbacks = {
 };
 static void location_callback(GpsLocation* location)
 {
+    if (!location)
+        return;
+
+    printf("location: %lf %lf %lf %f %f %f\n", location->latitude, location->longitude,
+            location->altitude, location->speed, location->bearing, location->accuracy);
+    printf("utctime %llu\n", location->timestamp);
 }
 static void status_callback(GpsStatus* status)
 {
@@ -138,7 +144,7 @@ static void sv_status_callback(GpsSvStatus* sv_status)
 }
 static void nmea_callback(GpsUtcTime timestamp, const char* nmea, int length)
 {
-
+    printf("joy : nmea callback: %s  len %d\n", nmea, length);
 }
 static void set_capabilities_callback(uint32_t capabilities)
 {

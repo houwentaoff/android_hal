@@ -995,8 +995,9 @@ static int athr_run_hook(char* name)
         ALOGE("%s: athr.gps.hookspath property is not set\n", __FUNCTION__);
 		return 0;
     }
-    sprintf(buf,"%s/%s" , prop, name);
-    ALOGI("%s: going to execute hook  \"%s\"", __FUNCTION__, buf);
+    //sprintf(buf,"%s/%s" , prop, name);
+    sprintf(buf,"echo 'etc gps %s'...\n" , name);
+    ALOGI("%s: going to execute hook  \"%s\"\n", __FUNCTION__, buf);
     return !system(buf);
 }
 
@@ -1465,7 +1466,7 @@ gps_timer_thread( void*  arg )
 
 }
 
-static char   prop[PROPERTY_VALUE_MAX]; /* need to modify. by joy */
+static char   prop[PROPERTY_VALUE_MAX]="/dev/random"; /* need to modify. by joy */
 
 int gps_opentty(GpsState *state)
 {
