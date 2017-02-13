@@ -96,7 +96,8 @@ typedef struct {
 
 typedef struct {
     int                     init;
-    int                     fd;
+    int                     fd;             /* gps  interface */
+    int                     gps_control_fd; /* gps control interface */
     GpsCallbacks            callbacks;
     pthread_t               thread;
     pthread_t		    nmea_thread;
@@ -117,6 +118,7 @@ typedef struct {
 #endif
 } GpsState;
 
+static void athr_gps_set_fix_frequency(int freq);
 
 GpsCallbacks* g_gpscallback = 0;
 
@@ -159,6 +161,7 @@ static int bOrionShutdown = 0;
 
 #define GPS_DEV_LOW_BAUD  (B9600)
 #define GPS_DEV_HIGH_BAUD (B115200)
+static char   prop[PROPERTY_VALUE_MAX]="ttyUSB3"; /* control inteface need to modify. by joy */
 
 static void gps_nmea_thread( void*  arg );
 static void gps_timer_thread( void*  arg );
@@ -1003,12 +1006,12 @@ static int athr_run_hook(char* name)
 
 static int athr_run_hook_start()
 {
-    return athr_run_hook("start");
+    return 0;//return athr_run_hook("start");
 }
 
 static int athr_run_hook_stop()
 {
-    return athr_run_hook("stop");
+    return 0;//athr_run_hook("stop");
 }
 
 
@@ -1177,6 +1180,7 @@ gps_state_thread( void*  arg )
     epoll_register( epoll_ctrlfd, control_fd );
 
     D("gps thread running\n");
+    athr_gps_set_fix_frequency(3);//joy
 
 	state->tmr_thread = state->callbacks.create_thread_cb("athr_gps_tmr", gps_timer_thread, state);
 	if (!state->tmr_thread)
@@ -1358,7 +1362,7 @@ gps_nmea_thread( void*  arg )
 			}
 			else
 			{
-				DFR("Error on NMEA read :%s\n",strerror(errno));
+				printf("Error on NMEA read :%s\n",strerror(errno));
 				gps_closetty(state);
 				GPS_STATUS_CB(state->callbacks, GPS_STATUS_SESSION_END);
 				sleep(3); //wait Orion shutdown.
@@ -1466,7 +1470,6 @@ gps_timer_thread( void*  arg )
 
 }
 
-static char   prop[PROPERTY_VALUE_MAX]="/dev/random"; /* need to modify. by joy */
 
 int gps_opentty(GpsState *state)
 {
@@ -1490,7 +1493,7 @@ int gps_opentty(GpsState *state)
         char device[256];
 
         // let's try add /dev/ to the property name as a last resort
-        if ( snprintf(device, sizeof(device), "/dev/%s0", prop) >= (int)sizeof(device) ) {
+        if ( snprintf(device, sizeof(device), "/dev/%s", prop) >= (int)sizeof(device) ) {
             DFR("gps serial device name too long: '%s'", prop);
             return -1;
         }

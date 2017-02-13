@@ -28,7 +28,7 @@
 //#include <utils/Log.h>
 
 /** Base path of the hal modules */
-#define HAL_LIBRARY_PATH1 "/system/lib/hw"
+#define HAL_LIBRARY_PATH1 "./"//"/system/lib/hw"
 #define HAL_LIBRARY_PATH2 "/vendor/lib/hw"
 
 /**

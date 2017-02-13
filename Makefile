@@ -1,14 +1,14 @@
 SUBDIRS=libhardware libgps test_unit
 
-ifndef TOP_DIR
+#ifndef TOP_DIR
 TOP_DIR=$(shell pwd)/
 export TOP_DIR
-endif
+#endif
 
 include env.mk
 
 all:
-	-@echo  "\033[32m Building hardware ... \033[0m"
+	-@echo  "\033[32m Building 3ps module ... \033[0m"
 	for d in $(SUBDIRS); do [ -d $$d ] && $(MAKE) -C $$d; done
 
 clean:

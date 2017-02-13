@@ -130,7 +130,7 @@ static void location_callback(GpsLocation* location)
     if (!location)
         return;
 
-    printf("location: %lf %lf %lf %f %f %f\n", location->latitude, location->longitude,
+    printf("==>%s location: %lf %lf %lf %f %f %f\n", __FUNCTION__, location->latitude, location->longitude,
             location->altitude, location->speed, location->bearing, location->accuracy);
     printf("utctime %llu\n", location->timestamp);
 }
@@ -140,11 +140,11 @@ static void status_callback(GpsStatus* status)
 }
 static void sv_status_callback(GpsSvStatus* sv_status)
 {
-
+    printf ("==>%s joy: satellite num [%d]\n", __FUNCTION__, sv_status->num_svs);
 }
 static void nmea_callback(GpsUtcTime timestamp, const char* nmea, int length)
 {
-    printf("joy : nmea callback: %s  len %d\n", nmea, length);
+    printf("==>%s joy : nmea callback: %s  len %d\n", __FUNCTION__, nmea, length);
 }
 static void set_capabilities_callback(uint32_t capabilities)
 {
@@ -160,7 +160,7 @@ static void release_wakelock_callback()
 static pthread_t create_thread_callback(const char* name, void (*start)(void *), void* arg)
 {
     pthread_t tid;
-    printf("==>%s name[%s]\n", __func__, name);
+    printf("==>%s name[%s]\n", __FUNCTION__, name);
     pthread_create(&tid, NULL, (void *)start, arg);
     return (pthread_t)tid;
 }
