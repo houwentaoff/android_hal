@@ -13,10 +13,10 @@ endif
 
 include ../env.mk
 
-INC+=
+INC+= -I$(TOP_DIR)/../libgpio/include/
 
 #LD:= -L$(TOP_DIR)/libgps -lgps -L$(TOP_DIR)/libhardware -lhardware -ldl
-LD:= -L$(TOP_DIR)/libhardware -lhardware -ldl -lpthread
+LD:= -L$(TOP_DIR)/../libgpio/src/.libs -lgpio -L$(TOP_DIR)/libhardware -lhardware -ldl -lpthread
 
 CFLAGS+=$(INC)
 

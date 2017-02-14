@@ -1,0 +1,4989 @@
+[BEGIN] 2017/2/14 14:31:24
+==>sv_status_callback joy: satellite num [1]
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,27,32,,,31*7E
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,27,32,,,31*7E
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,27,32,,,32*7D
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7D
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7D
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7D
+  len 25
+==>sv_status_callback joy: satellite num [2]
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,28,32,,,32*72
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+72
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+72
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,27,32,,,31*7E
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,27,32,,,32*7D
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7D
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7D
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,26,32,,,32*7C
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7C
+  len 25
+==>sv_status_callback joy: satellite num [2]
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,26,32,,,32*7C
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,25,32,,,32*7F
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,25,32,,,32*7F
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,26,32,,,32*7C
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7C
+  len 25
+==>sv_status_callback joy: satellite num [2]
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,25,32,,,31*7C
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,22,32,,,33*79
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,33*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,23,32,,,30*7B
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,30*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7B
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7B
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,23,32,,,32*79
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+79
+  len 25
+==>sv_status_callback joy: satellite num [2]
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,24,32,,,31*7D
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7D
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7D
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,25,32,,,32*7F
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,26,32,,,32*7C
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,24,32,,,31*7D
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7D
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7D
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7D
+  len 25
+==>sv_status_callback joy: satellite num [2]
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,02,03,,,24,32,,,32*7E
+  len 34
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,32*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,03,03,,,24,22,,,28,32,,,32*75
+  len 42
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,28,32,,,32*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+32,,,32*75
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+32,,,32*75
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+32,,,32*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,03,03,,,25,22,,,31,32,,,31*7F
+  len 42
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31,32,,,31*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+32,,,31*7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+32,,,31*7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+32,,,31*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,03,03,,,26,22,,,31,32,,,32*7F
+  len 42
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31,32,,,32*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+32,,,32*7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+32,,,32*7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+32,,,32*7F
+  len 25
+Sending discover...
+==>sv_status_callback joy: satellite num [3]
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,03,03,,,25,22,,,31,32,,,32*7C
+  len 42
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31,32,,,32*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+32,,,32*7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+32,,,32*7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+32,,,32*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,03,03,,,26,22,,,31,32,,,31*7C
+  len 42
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31,32,,,31*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+32,,,31*7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+32,,,31*7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+32,,,31*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,03,03,,,26,22,,,31,32,,,31*7C
+  len 42
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31,32,,,31*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+32,,,31*7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+32,,,31*7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+32,,,31*7C
+  len 25
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,03,03,,,25,22,,,31,32,,,31*7F
+  len 42
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31,32,,,31*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+32,,,31*7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+32,,,31*7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+32,,,31*7F
+  len 25
+==>sv_status_callback joy: satellite num [3]
+==>nmea_callback joy : nmea callback: $GPGSV,1,1,03,03,,,26,22,,,31,32,,,31*7C
+  len 42
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,,31,32,,,31*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+32,,,31*7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+32,,,31*7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+32,,,31*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,22,,,31,32,53,075,31,06,,,*77
+  len 58
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,08,,,,10,29,164,,26,45,187,,29,08,097,*46
+
+  len 57
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+,,26,45,187,,29,08,097,*46
+
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+,,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,26,45,187,,29,08,097,*46
+
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,26,45,187,,29,08,097,*46
+
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,26,45,187,,29,08,097,*46
+
+  len 25
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,22,,,30,32,53,075,31,06,,,*76
+  len 58
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,08,,,,10,29,164,,26,45,187,,29,08,097,*46
+
+  len 57
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+,,26,45,187,,29,08,097,*46
+
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+,,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,26,45,187,,29,08,097,*46
+
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,26,45,187,,29,08,097,*46
+
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,22,,,31,32,53,075,31,06,,,*77
+  len 58
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,08,,,,10,29,164,,26,45,187,,29,08,097,*46
+
+  len 57
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+,,26,45,187,,29,08,097,*46
+
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+,,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,26,45,187,,29,08,097,*46
+
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,26,45,187,,29,08,097,*46
+
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,26,45,187,,29,08,097,*46
+
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,22,,,30,32,53,075,31,06,,,*75
+  len 58
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,08,,,,10,29,164,,26,45,187,,29,08,097,*46
+
+  len 57
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+,,26,45,187,,29,08,097,*46
+
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+,,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,26,45,187,,29,08,097,*46
+
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,26,45,187,,29,08,097,*46
+
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,22,,,31,32,53,075,31,06,,,*74
+  len 58
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,08,,,,10,29,164,,26,45,187,,29,08,097,*46
+
+  len 57
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+,,26,45,187,,29,08,097,*46
+
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+,,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,26,45,187,,29,08,097,*46
+
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,26,45,187,,29,08,097,*46
+
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,22,,,30,32,53,075,31,06,,,*75
+  len 58
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,08,,,,10,29,164,,26,45,187,,29,08,097,*46
+
+  len 57
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+,,26,45,187,,29,08,097,*46
+
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+,,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,26,45,187,,29,08,097,*46
+
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,26,45,187,,29,08,097,*46
+
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,26,45,187,,29,08,097,*46
+
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,10,29,164,26,22,,,31,32,53,075,31*4C
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+3,075,31*4C
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+3,075,31*4C
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+3,075,31*4C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+3,075,31*4C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+3,075,31*4C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+3,075,31*4C
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,26,22,,,30,32,53,075,31*4E
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+3,075,31*4E
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+3,075,31*4E
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+3,075,31*4E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+3,075,31*4E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+3,075,31*4E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+3,075,31*4E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,26,22,,,31,32,53,075,31*4F
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+3,075,31*4F
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+3,075,31*4F
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+3,075,31*4F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+3,075,31*4F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+3,075,31*4F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+3,075,31*4F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,29,164,26,22,,,31,32,53,075,30*4F
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+3,075,30*4F
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+3,075,30*4F
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+3,075,30*4F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+3,075,30*4F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+3,075,30*4F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+3,075,30*4F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,26,22,,,31,32,53,075,30*4E
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+3,075,30*4E
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+3,075,30*4E
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+3,075,30*4E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+3,075,30*4E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+3,075,30*4E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+3,075,30*4E
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,26,22,30,306,32,32,53,075,31*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,26,22,30,306,31,32,53,075,31*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,25,22,30,306,31,32,53,075,31*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,26,22,30,306,31,32,53,075,31*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,334,*44
+45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+44
+45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,26,22,30,306,30,32,53,075,31*78
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*78
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,63,334,*43
+45,187,,29,08,097,*79
+,32,53,075,31*78
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+43
+45,187,,29,08,097,*79
+,32,53,075,31*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*78
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*78
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,10,29,164,26,22,30,306,31,32,53,075,31*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,63,334,*43
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+43
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,29,164,26,22,30,306,31,32,53,075,31*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,63,334,*43
+45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+43
+45,187,,29,08,097,*79
+,32,53,075,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,10,29,164,26,22,30,306,31,32,53,075,31*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,63,334,*43
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+43
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,10,29,164,26,22,30,306,31,32,53,075,31*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,63,334,*43
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+43
+45,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+5,187,,29,08,097,*79
+,32,53,075,31*7A
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,25,22,31,306,31,32,53,077,31*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,43,187,,29,08,097,*7F
+,32,53,077,31*7A
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,333,*43
+43,187,,29,08,097,*7F
+,32,53,077,31*7A
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+43
+43,187,,29,08,097,*7F
+,32,53,077,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+3,187,,29,08,097,*7F
+,32,53,077,31*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+3,187,,29,08,097,*7F
+,32,53,077,31*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+3,187,,29,08,097,*7F
+,32,53,077,31*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,26,22,31,306,31,32,53,077,31*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,43,187,,29,08,097,*7F
+,32,53,077,31*79
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,333,*43
+43,187,,29,08,097,*7F
+,32,53,077,31*79
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+43
+43,187,,29,08,097,*7F
+,32,53,077,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+3,187,,29,08,097,*7F
+,32,53,077,31*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+3,187,,29,08,097,*7F
+,32,53,077,31*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+3,187,,29,08,097,*7F
+,32,53,077,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,10,28,164,26,22,31,306,30,32,53,077,30*78
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,06,,,,08,,,,26,43,187,,29,08,097,*7F
+,32,53,077,30*78
+  len 52
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,31,64,333,*43
+43,187,,29,08,097,*7F
+,32,53,077,30*78
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+43
+43,187,,29,08,097,*7F
+,32,53,077,30*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+3,187,,29,08,097,*7F
+,32,53,077,30*78
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+3,187,,29,08,097,*7F
+,32,53,077,30*78
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+3,187,,29,08,097,*7F
+,32,53,077,30*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,28,10,28,164,26,22,31,306,30,26,43,187,22*7F
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,22*7F
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*7F
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,22*7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*7F
+  len 25
+==>sv_status_callback joy: satellite num [9]
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,26,22,31,306,30,26,43,187,22*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,28,10,28,164,26,22,31,306,30,26,43,187,23*7E
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,23*7E
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,23*7E
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,23*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,23*7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,23*7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,23*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,28,10,28,164,26,22,31,306,31,26,43,187,23*7F
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,23*7F
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,23*7F
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,23*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,23*7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,23*7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,23*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,28,10,28,164,25,22,31,306,30,26,43,187,21*7F
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,21*7F
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,21*7F
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,21*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,21*7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,21*7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,21*7F
+  len 25
+==>sv_status_callback joy: satellite num [9]
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,26,22,31,306,31,26,43,187,22*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,22*71
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*71
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,22*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,28,10,28,164,25,22,31,306,31,26,43,187,21*7E
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,21*7E
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,21*7E
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,21*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,21*7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,21*7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,21*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,27,22,31,306,31,26,43,187,22*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 25
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,27,22,31,306,31,26,43,187,22*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*71
+43,187,22*70
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,27,22,31,306,31,26,43,187,22*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,31,06,,,,08,,,*70
+43,187,22*70
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,31,06,,,,08,,,*70
+43,187,22*70
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,31,06,,,,08,,,*70
+43,187,22*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*70
+43,187,22*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*70
+43,187,22*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*70
+43,187,22*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,10,28,164,27,22,31,306,32,26,43,187,21*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,31,06,,,,08,,,*70
+43,187,21*71
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,31,06,,,,08,,,*70
+43,187,21*71
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,31,06,,,,08,,,*70
+43,187,21*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*70
+43,187,21*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*70
+43,187,21*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*70
+43,187,21*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,27,22,31,306,32,26,43,187,22*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,27,10,28,164,26,22,31,306,31,26,43,187,23*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,31,06,,,,08,,,*70
+43,187,23*70
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,31,06,,,,08,,,*70
+43,187,23*70
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,31,06,,,,08,,,*70
+43,187,23*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*70
+43,187,23*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*70
+43,187,23*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*70
+43,187,23*70
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,28,164,26,22,31,306,31,26,43,187,23*72
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,31,06,,,,08,,,*70
+43,187,23*72
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,31,06,,,,08,,,*70
+43,187,23*72
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,31,06,,,,08,,,*70
+43,187,23*72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*70
+43,187,23*72
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*70
+43,187,23*72
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*70
+43,187,23*72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,26,10,28,164,26,22,31,306,32,26,43,187,22*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*70
+43,187,22*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,26,22,31,306,31,26,43,187,23*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,18,32,53,077,32,06,,,,08,,,*73
+43,187,23*73
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,32,06,,,,08,,,*73
+43,187,23*73
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,32,06,,,,08,,,*73
+43,187,23*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,32,06,,,,08,,,*73
+43,187,23*73
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,32,06,,,,08,,,*73
+43,187,23*73
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,32,06,,,,08,,,*73
+43,187,23*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,28,164,26,22,31,306,32,26,43,187,24*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,16,32,53,077,32,06,,,,08,,,*7D
+43,187,24*76
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,32,06,,,,08,,,*7D
+43,187,24*76
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,32,06,,,,08,,,*7D
+43,187,24*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,32,06,,,,08,,,*7D
+43,187,24*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,32,06,,,,08,,,*7D
+43,187,24*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,32,06,,,,08,,,*7D
+43,187,24*76
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,26,22,31,306,32,26,43,187,23*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,16,32,53,077,32,06,,,,08,,,*7D
+43,187,23*70
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,32,06,,,,08,,,*7D
+43,187,23*70
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,32,06,,,,08,,,*7D
+43,187,23*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,23,10,28,164,26,22,31,306,32,26,43,187,23*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,16,32,53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,23,10,28,164,26,22,31,306,32,26,43,187,23*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,31,64,333,16,32,53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,29,08,097,*4D
+,53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4D
+,53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,32,06,,,,08,,,*7D
+43,187,23*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,26,22,31,306,32,26,43,187,24*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,17,31,64,333,16,32,53,077,33,06,,,*4F
+24*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+17,31,64,333,16,32,53,077,33,06,,,*4F
+24*77
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+7,31,64,333,16,32,53,077,33,06,,,*4F
+24*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,33,06,,,*4F
+24*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,33,06,,,*4F
+24*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,33,06,,,*4F
+24*77
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,26,22,31,306,32,26,43,187,24*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,17,31,64,333,16,32,53,077,32,06,,,*4E
+24*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+17,31,64,333,16,32,53,077,32,06,,,*4E
+24*77
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+7,31,64,333,16,32,53,077,32,06,,,*4E
+24*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,32,06,,,*4E
+24*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,32,06,,,*4E
+24*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,32,06,,,*4E
+24*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,23,10,28,164,27,22,31,306,32,26,43,187,23*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,17,31,64,333,16,32,53,077,33,06,,,*4F
+23*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+17,31,64,333,16,32,53,077,33,06,,,*4F
+23*76
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+7,31,64,333,16,32,53,077,33,06,,,*4F
+23*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,33,06,,,*4F
+23*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,33,06,,,*4F
+23*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,33,06,,,*4F
+23*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,26,22,31,306,32,26,43,187,25*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,17,31,64,333,16,32,53,077,33,06,,,*4F
+25*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+17,31,64,333,16,32,53,077,33,06,,,*4F
+25*76
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+7,31,64,333,16,32,53,077,33,06,,,*4F
+25*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,33,06,,,*4F
+25*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,33,06,,,*4F
+25*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,33,06,,,*4F
+25*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,27,22,31,306,32,26,43,187,25*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,17,31,64,333,16,32,53,077,32,06,,,*4E
+25*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+17,31,64,333,16,32,53,077,32,06,,,*4E
+25*77
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+7,31,64,333,16,32,53,077,32,06,,,*4E
+25*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,32,06,,,*4E
+25*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,32,06,,,*4E
+25*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,32,06,,,*4E
+25*77
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,23,10,28,164,26,22,31,306,32,26,43,187,25*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,17,31,64,333,16,32,53,077,33,06,,,*4F
+25*71
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+17,31,64,333,16,32,53,077,33,06,,,*4F
+25*71
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+7,31,64,333,16,32,53,077,33,06,,,*4F
+25*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,33,06,,,*4F
+25*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,33,06,,,*4F
+25*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,33,06,,,*4F
+25*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,22,10,28,164,26,22,31,306,32,26,43,187,24*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,18,31,64,333,16,32,53,077,32,06,,,*41
+24*71
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+18,31,64,333,16,32,53,077,32,06,,,*41
+24*71
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+8,31,64,333,16,32,53,077,32,06,,,*41
+24*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,32,06,,,*41
+24*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,32,06,,,*41
+24*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,32,06,,,*41
+24*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,22,10,28,164,26,22,31,306,32,26,43,187,25*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,18,31,64,333,16,32,53,077,32,06,,,*41
+25*70
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+18,31,64,333,16,32,53,077,32,06,,,*41
+25*70
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+8,31,64,333,16,32,53,077,32,06,,,*41
+25*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,32,06,,,*41
+25*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,32,06,,,*41
+25*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,32,06,,,*41
+25*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,23,10,28,164,27,22,31,306,32,26,43,187,25*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,18,31,64,333,16,32,53,077,33,06,,,*40
+25*70
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+18,31,64,333,16,32,53,077,33,06,,,*40
+25*70
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+8,31,64,333,16,32,53,077,33,06,,,*40
+25*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,33,06,,,*40
+25*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,33,06,,,*40
+25*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,33,06,,,*40
+25*70
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,22,10,28,164,27,22,31,306,32,26,43,187,26*72
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,18,31,64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+18,31,64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+8,31,64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,22,10,28,164,27,22,31,306,32,26,43,187,26*72
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,18,31,64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,08,,,*78
+18,31,64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 24
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+8,31,64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,333,16,32,53,077,32,06,,,*41
+26*72
+  len 25
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,27,22,31,306,32,26,43,187,25*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,18,32,53,077,32,06,,,*48
+25*79
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*48
+25*79
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*48
+25*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,27,22,31,306,32,26,43,187,26*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,18,32,53,077,32,06,,,*48
+26*7A
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*48
+26*7A
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*48
+26*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*48
+26*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+26*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+26*7A
+  len 25
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,21,10,28,164,27,22,31,306,33,26,43,187,26*78
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,20,32,53,077,32,06,,,*43
+26*78
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,20,32,53,077,32,06,,,*43
+26*78
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,20,32,53,077,32,06,,,*43
+26*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,20,32,53,077,32,06,,,*43
+26*78
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,20,32,53,077,32,06,,,*43
+26*78
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,20,32,53,077,32,06,,,*43
+26*78
+  len 25
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,21,10,28,164,27,22,31,306,32,26,43,187,25*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,20,32,53,077,33,06,,,*42
+25*7A
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,20,32,53,077,33,06,,,*42
+25*7A
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,20,32,53,077,33,06,,,*42
+25*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,20,32,53,077,33,06,,,*42
+25*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,20,32,53,077,33,06,,,*42
+25*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,20,32,53,077,33,06,,,*42
+25*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,28,22,31,306,32,26,43,187,24*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,19,32,53,077,32,06,,,*49
+24*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,19,32,53,077,32,06,,,*49
+24*76
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,19,32,53,077,32,06,,,*49
+24*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,19,32,53,077,32,06,,,*49
+24*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,19,32,53,077,32,06,,,*49
+24*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,19,32,53,077,32,06,,,*49
+24*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,28,22,31,306,32,26,43,187,25*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,19,32,53,077,32,06,,,*49
+25*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,19,32,53,077,32,06,,,*49
+25*77
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,19,32,53,077,32,06,,,*49
+25*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,19,32,53,077,32,06,,,*49
+25*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,19,32,53,077,32,06,,,*49
+25*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,19,32,53,077,32,06,,,*49
+25*77
+  len 25
+==>sv_status_callback joy: satellite num [10]
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,28,22,31,306,32,26,43,187,26*74
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,20,32,53,077,33,06,,,*42
+26*74
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,20,32,53,077,33,06,,,*42
+26*74
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,20,32,53,077,33,06,,,*42
+26*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,20,32,53,077,33,06,,,*42
+26*74
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,20,32,53,077,33,06,,,*42
+26*74
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,20,32,53,077,33,06,,,*42
+26*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,28,22,31,306,32,26,43,187,25*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,20,32,53,077,32,06,,,*43
+25*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,20,32,53,077,32,06,,,*43
+25*77
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,20,32,53,077,32,06,,,*43
+25*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,20,32,53,077,32,06,,,*43
+25*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,20,32,53,077,32,06,,,*43
+25*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,20,32,53,077,32,06,,,*43
+25*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,28,22,31,306,32,26,43,187,25*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,20,32,53,077,32,06,,,*43
+25*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,20,32,53,077,32,06,,,*43
+25*76
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,20,32,53,077,32,06,,,*43
+25*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,20,32,53,077,32,06,,,*43
+25*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,20,32,53,077,32,06,,,*43
+25*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,20,32,53,077,32,06,,,*43
+25*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,21,10,28,164,28,22,31,306,31,26,43,187,24*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,20,32,53,077,32,06,,,*43
+24*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,20,32,53,077,32,06,,,*43
+24*77
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,20,32,53,077,32,06,,,*43
+24*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,20,32,53,077,32,06,,,*43
+24*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,20,32,53,077,32,06,,,*43
+24*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,20,32,53,077,32,06,,,*43
+24*77
+  len 25
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,28,22,31,306,32,26,43,187,25*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,18,32,53,077,32,06,,,*48
+25*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*48
+25*77
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*48
+25*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,28,22,31,306,32,26,43,187,25*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,18,32,53,077,32,06,,,*48
+25*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*48
+25*76
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*48
+25*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,25,10,28,164,28,22,31,306,32,26,43,187,25*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,18,32,53,077,32,06,,,*48
+25*71
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*48
+25*71
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*48
+25*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+25*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,24,10,28,164,28,22,31,306,32,26,43,187,24*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,18,32,53,077,32,06,,,*48
+24*71
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*48
+24*71
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*48
+24*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*48
+24*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+24*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+24*71
+  len 25
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,28,22,31,306,33,26,43,187,24*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,17,31,64,333,18,32,53,077,32,06,,,*48
+24*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*48
+24*77
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*48
+24*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*48
+24*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+24*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*48
+24*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,24,10,28,164,27,22,31,306,33,26,43,187,23*78
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,32,06,,,*4C
+23*78
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*4C
+23*78
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*4C
+23*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+23*78
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+23*78
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+23*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,28,22,31,306,32,26,43,187,23*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,32,06,,,*4C
+23*71
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*4C
+23*71
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*4C
+23*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+23*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+23*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+23*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,28,22,31,306,33,26,43,187,24*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,31,06,,,*4F
+24*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 25
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,27,22,31,306,32,26,43,187,24*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,32,06,,,*4C
+24*79
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*4C
+24*79
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*4C
+24*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,27,22,31,306,33,26,43,187,24*78
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,32,06,,,*4C
+24*78
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*4C
+24*78
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*4C
+24*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*78
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*78
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,27,22,31,306,33,26,43,187,23*7F
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,31,06,,,*4F
+23*7F
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,31,06,,,*4F
+23*7F
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,31,06,,,*4F
+23*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+23*7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+23*7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+23*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,28,22,31,306,33,26,43,187,24*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,31,06,,,*4F
+24*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+24*76
+  len 25
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,28,22,31,306,33,26,43,187,24*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,32,06,,,*4C
+24*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*4C
+24*77
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*4C
+24*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,25,10,28,164,28,22,31,306,33,26,43,187,24*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,32,06,,,*4C
+24*71
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,32,06,,,*4C
+24*71
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,32,06,,,*4C
+24*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,32,06,,,*4C
+24*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,24,10,28,164,29,22,31,306,33,26,43,187,22*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,31,06,,,*4F
+22*77
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,31,06,,,*4F
+22*77
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,31,06,,,*4F
+22*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+22*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+22*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+22*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,25,10,28,164,28,22,31,306,33,26,43,187,23*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,31,06,,,*4F
+23*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,31,06,,,*4F
+23*76
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,31,06,,,*4F
+23*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+23*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+23*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+23*76
+  len 25
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,25,10,28,164,28,22,31,306,32,26,43,187,21*75
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,31,06,,,*4F
+21*75
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,31,06,,,*4F
+21*75
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,31,06,,,*4F
+21*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+21*75
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+21*75
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+21*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,26,10,28,164,28,22,31,306,32,26,43,187,22*75
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,31,06,,,*4F
+22*75
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,31,06,,,*4F
+22*75
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,31,06,,,*4F
+22*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+22*75
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+22*75
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+22*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,25,10,28,164,27,22,31,306,32,26,43,187,22*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,30,06,,,*4E
+22*79
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,30,06,,,*4E
+22*79
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,30,06,,,*4E
+22*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+22*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+22*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+22*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,25,10,28,164,27,22,31,306,32,26,43,187,20*7B
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,31,06,,,*4F
+20*7B
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,31,06,,,*4F
+20*7B
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,31,06,,,*4F
+20*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+20*7B
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+20*7B
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,31,06,,,*4F
+20*7B
+  len 25
+Sending discover...
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,26,10,28,164,27,22,31,306,32,26,43,187,20*78
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,30,06,,,*4E
+20*78
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,30,06,,,*4E
+20*78
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,30,06,,,*4E
+20*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+20*78
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+20*78
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+20*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,24,10,28,164,26,22,31,306,31,26,43,187,20*78
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,29,06,,,*46
+20*78
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,29,06,,,*46
+20*78
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,29,06,,,*46
+20*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,29,06,,,*46
+20*78
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,29,06,,,*46
+20*78
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,29,06,,,*46
+20*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,25,10,28,164,26,22,31,306,32,26,43,187,20*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,18,32,53,077,30,06,,,*4E
+20*7A
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,18,32,53,077,30,06,,,*4E
+20*7A
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,18,32,53,077,30,06,,,*4E
+20*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+20*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+20*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,18,32,53,077,30,06,,,*4E
+20*7A
+  len 25
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,28,164,27,22,31,306,31,26,43,187,20*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,20,32,53,077,30,06,,,,08,,,*74
+43,187,20*70
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,30,06,,,,08,,,*74
+43,187,20*70
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,30,06,,,,08,,,*74
+43,187,20*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*74
+43,187,20*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*74
+43,187,20*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*74
+43,187,20*70
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,26,22,31,306,31,26,43,187,17*74
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,20,32,53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,28,164,26,22,31,306,31,26,43,187,17*75
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,20,32,53,077,30,06,,,,08,,,*74
+43,187,17*75
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,30,06,,,,08,,,*74
+43,187,17*75
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,30,06,,,,08,,,*74
+43,187,17*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*74
+43,187,17*75
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*74
+43,187,17*75
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*74
+43,187,17*75
+  len 25
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,26,22,31,306,31,26,43,187,17*74
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,20,32,53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*74
+43,187,17*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,28,164,27,22,31,306,30,26,43,187,19*7B
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,20,32,53,077,30,06,,,,08,,,*74
+43,187,19*7B
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,30,06,,,,08,,,*74
+43,187,19*7B
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,30,06,,,,08,,,*74
+43,187,19*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*74
+43,187,19*7B
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*74
+43,187,19*7B
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*74
+43,187,19*7B
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,24,10,28,164,27,22,31,306,31,26,43,187,19*7B
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,31,06,,,,08,,,*73
+43,187,19*7B
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,31,06,,,,08,,,*73
+43,187,19*7B
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,31,06,,,,08,,,*73
+43,187,19*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*73
+43,187,19*7B
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*73
+43,187,19*7B
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*73
+43,187,19*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,23,10,28,164,26,22,31,306,32,26,43,187,19*7E
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,30,06,,,,08,,,*72
+43,187,19*7E
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,30,06,,,,08,,,*72
+43,187,19*7E
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,30,06,,,,08,,,*72
+43,187,19*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*72
+43,187,19*7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*72
+43,187,19*7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*72
+43,187,19*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,28,164,26,22,31,306,29,26,43,187,18*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,29,06,,,,08,,,*7A
+43,187,18*73
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,29,06,,,,08,,,*7A
+43,187,18*73
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,29,06,,,,08,,,*7A
+43,187,18*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,29,06,,,,08,,,*7A
+43,187,18*73
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,29,06,,,,08,,,*7A
+43,187,18*73
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,29,06,,,,08,,,*7A
+43,187,18*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,28,164,27,22,31,306,27,26,43,187,18*7C
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,30,06,,,,08,,,*72
+43,187,18*7C
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,30,06,,,,08,,,*72
+43,187,18*7C
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,30,06,,,,08,,,*72
+43,187,18*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*72
+43,187,18*7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*72
+43,187,18*7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*72
+43,187,18*7C
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,25,10,28,164,27,22,31,306,25,26,43,187,18*7E
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,30,06,,,,08,,,*72
+43,187,18*7E
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,30,06,,,,08,,,*72
+43,187,18*7E
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,30,06,,,,08,,,*72
+43,187,18*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,30,06,,,,08,,,*72
+43,187,18*7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,30,06,,,,08,,,*72
+43,187,18*7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,30,06,,,,08,,,*72
+43,187,18*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,22,10,28,164,26,22,31,306,29,26,43,187,18*74
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,31,06,,,,08,,,*73
+43,187,18*74
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,31,06,,,,08,,,*73
+43,187,18*74
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,31,06,,,,08,,,*73
+43,187,18*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*73
+43,187,18*74
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*73
+43,187,18*74
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*73
+43,187,18*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,21,10,28,164,26,22,31,306,29,26,43,187,18*77
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,31,06,,,,08,,,*73
+43,187,18*77
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,31,06,,,,08,,,*73
+43,187,18*77
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,31,06,,,,08,,,*73
+43,187,18*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*73
+43,187,18*77
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*73
+43,187,18*77
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*73
+43,187,18*77
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,21,10,28,164,26,22,31,306,29,26,43,187,19*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,31,06,,,,08,,,*73
+43,187,19*76
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,31,06,,,,08,,,*73
+43,187,19*76
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,31,06,,,,08,,,*73
+43,187,19*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*73
+43,187,19*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*73
+43,187,19*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*73
+43,187,19*76
+  len 25
+==>sv_status_callback joy: satellite num [9]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,15,317,21,10,28,164,25,22,31,306,26,26,43,187,19*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,29,08,097,15,32,53,077,31,06,,,,08,,,*73
+43,187,19*7A
+  len 56
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,02,154,*4B
+,53,077,31,06,,,,08,,,*73
+43,187,19*7A
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+4B
+,53,077,31,06,,,,08,,,*73
+43,187,19*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,077,31,06,,,,08,,,*73
+43,187,19*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,077,31,06,,,,08,,,*73
+43,187,19*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,077,31,06,,,,08,,,*73
+43,187,19*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,21,10,28,164,26,22,31,306,25,26,43,187,19*72
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,15,31,64,333,22,32,53,077,32,06,,,*43
+19*72
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,22,32,53,077,32,06,,,*43
+19*72
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,22,32,53,077,32,06,,,*43
+19*72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,22,32,53,077,32,06,,,*43
+19*72
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,22,32,53,077,32,06,,,*43
+19*72
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,22,32,53,077,32,06,,,*43
+19*72
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,19,10,28,164,26,22,31,306,26,26,43,187,18*7B
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,15,31,64,333,22,32,53,077,32,06,,,*43
+18*7B
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,22,32,53,077,32,06,,,*43
+18*7B
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,22,32,53,077,32,06,,,*43
+18*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,22,32,53,077,32,06,,,*43
+18*7B
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,22,32,53,077,32,06,,,*43
+18*7B
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,22,32,53,077,32,06,,,*43
+18*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,21,10,28,164,26,22,31,306,25,26,43,187,18*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,15,31,64,333,22,32,53,077,32,06,,,*43
+18*73
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,22,32,53,077,32,06,,,*43
+18*73
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,22,32,53,077,32,06,,,*43
+18*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,22,32,53,077,32,06,,,*43
+18*73
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,22,32,53,077,32,06,,,*43
+18*73
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,22,32,53,077,32,06,,,*43
+18*73
+  len 25
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,21,10,28,164,26,22,31,306,28,26,43,187,21*74
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,15,31,64,333,22,32,53,077,30,06,,,*41
+21*74
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,22,32,53,077,30,06,,,*41
+21*74
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,22,32,53,077,30,06,,,*41
+21*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,22,32,53,077,30,06,,,*41
+21*74
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,22,32,53,077,30,06,,,*41
+21*74
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,22,32,53,077,30,06,,,*41
+21*74
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,25,22,31,306,30,26,43,187,22*7E
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,15,31,64,333,21,32,53,077,31,06,,,*43
+22*7E
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,21,32,53,077,31,06,,,*43
+22*7E
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,21,32,53,077,31,06,,,*43
+22*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,21,32,53,077,31,06,,,*43
+22*7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,21,32,53,077,31,06,,,*43
+22*7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,21,32,53,077,31,06,,,*43
+22*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,24,10,28,164,24,22,31,306,29,26,43,187,22*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,15,31,64,333,21,32,53,077,31,06,,,*43
+22*71
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,21,32,53,077,31,06,,,*43
+22*71
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,21,32,53,077,31,06,,,*43
+22*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,21,32,53,077,31,06,,,*43
+22*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,21,32,53,077,31,06,,,*43
+22*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,21,32,53,077,31,06,,,*43
+22*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,23,10,28,164,25,22,31,306,30,26,43,187,21*7C
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,15,31,64,333,20,32,53,077,32,06,,,*41
+21*7C
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,20,32,53,077,32,06,,,*41
+21*7C
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,20,32,53,077,32,06,,,*41
+21*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,20,32,53,077,32,06,,,*41
+21*7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,20,32,53,077,32,06,,,*41
+21*7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,20,32,53,077,32,06,,,*41
+21*7C
+  len 25
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,24,22,31,306,30,26,43,187,23*7E
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,18,31,64,333,20,32,53,077,31,06,,,*4F
+23*7E
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,20,32,53,077,31,06,,,*4F
+23*7E
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,20,32,53,077,31,06,,,*4F
+23*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,20,32,53,077,31,06,,,*4F
+23*7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,20,32,53,077,31,06,,,*4F
+23*7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,20,32,53,077,31,06,,,*4F
+23*7E
+  len 25
+Sending discover...
+==>sv_status_callback joy: satellite num [10]
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,24,10,28,164,24,22,31,306,31,26,43,187,24*7E
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,18,31,64,333,19,32,53,077,32,06,,,*46
+24*7E
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,19,32,53,077,32,06,,,*46
+24*7E
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,19,32,53,077,32,06,,,*46
+24*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,19,32,53,077,32,06,,,*46
+24*7E
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,19,32,53,077,32,06,,,*46
+24*7E
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,19,32,53,077,32,06,,,*46
+24*7E
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,23,22,31,306,29,26,43,187,24*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,19,32,53,077,31,06,,,*4E
+24*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,19,32,53,077,31,06,,,*4E
+24*76
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,19,32,53,077,31,06,,,*4E
+24*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+24*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+24*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+24*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,22,10,28,164,24,22,31,306,29,26,43,187,23*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,19,32,53,077,31,06,,,*4E
+23*76
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,19,32,53,077,31,06,,,*4E
+23*76
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,19,32,53,077,31,06,,,*4E
+23*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+23*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+23*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+23*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,10,03,15,317,24,10,28,164,24,22,31,306,30,26,43,187,22*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,10,29,08,097,20,31,64,333,19,32,53,077,31,06,,,*4E
+22*79
+  len 63
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,10,08,,,,18,02,154,*4B
+3,19,32,53,077,31,06,,,*4E
+22*79
+  len 35
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,154,*4B
+3,19,32,53,077,31,06,,,*4E
+22*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+22*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+22*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+*4B
+3,19,32,53,077,31,06,,,*4E
+22*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,21,10,28,164,23,22,31,306,29,25,,,27*4D
+*79
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,23,29,08,097,20,31,64,333,19,32,53,077,31*75
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,19,32,53,077,31*75
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,19,32,53,077,31*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,19,32,53,077,31*75
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,19,32,53,077,31*75
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,19,32,53,077,31*75
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,21,10,28,164,25,22,31,306,29,25,,,27*4B
+*75
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,23,29,08,097,18,31,64,333,19,32,53,077,32*7D
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,19,32,53,077,32*7D
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,19,32,53,077,32*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,19,32,53,077,32*7D
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,19,32,53,077,32*7D
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,19,32,53,077,32*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,22,10,28,164,21,22,31,306,28,25,,,27*4D
+*7D
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,24,29,08,097,22,31,64,333,18,32,53,077,31*71
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,18,32,53,077,31*71
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,18,32,53,077,31*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,18,32,53,077,31*71
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,18,32,53,077,31*71
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,18,32,53,077,31*71
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,22,10,28,164,24,22,31,306,27,25,,,31*40
+*71
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,22,29,08,097,22,31,64,333,21,32,53,077,30*7C
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,21,32,53,077,30*7C
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,21,32,53,077,30*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,21,32,53,077,30*7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,21,32,53,077,30*7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,21,32,53,077,30*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,22,10,28,164,24,22,31,306,28,25,,,28*47
+*7C
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,23,29,08,097,23,31,64,333,23,32,53,077,31*7F
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,23,32,53,077,31*7F
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,23,32,53,077,31*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,23,32,53,077,31*7F
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,23,32,53,077,31*7F
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,23,32,53,077,31*7F
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,22,10,28,164,24,22,31,306,30,25,,,28*4E
+*7F
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,25,29,08,097,24,31,64,333,23,32,53,077,32*7D
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,23,32,53,077,32*7D
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,23,32,53,077,32*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,23,32,53,077,32*7D
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,23,32,53,077,32*7D
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,23,32,53,077,32*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,21,10,28,164,25,22,31,306,30,25,,,28*4C
+*7D
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,24,29,08,097,22,31,64,333,23,32,53,077,32*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,23,32,53,077,32*7A
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,23,32,53,077,32*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,23,32,53,077,32*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,23,32,53,077,32*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,23,32,53,077,32*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,21,10,28,164,23,22,31,306,29,25,,,28*42
+*7A
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,25,29,08,097,22,31,64,333,22,32,53,077,32*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,22,32,53,077,32*7A
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,22,32,53,077,32*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,22,32,53,077,32*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,22,32,53,077,32*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,22,32,53,077,32*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,22,10,28,164,25,22,31,306,30,25,,,27*40
+*7A
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,23,29,08,097,21,31,64,333,23,32,53,077,31*7D
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,23,32,53,077,31*7D
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,23,32,53,077,31*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,23,32,53,077,31*7D
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,23,32,53,077,31*7D
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,23,32,53,077,31*7D
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,24,10,28,164,23,22,31,306,29,25,,,26*49
+*7D
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,26,29,08,097,21,31,64,333,22,32,53,077,31*79
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,22,32,53,077,31*79
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,22,32,53,077,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,22,32,53,077,31*79
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,22,32,53,077,31*79
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,22,32,53,077,31*79
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,22,10,28,164,24,22,31,306,29,25,,,25*4B
+*79
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,25,29,08,097,20,31,64,333,22,32,53,077,31*7B
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,22,32,53,077,31*7B
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,22,32,53,077,31*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,22,32,53,077,31*7B
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,22,32,53,077,31*7B
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,22,32,53,077,31*7B
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,23,10,28,164,22,22,31,306,29,25,,,25*4C
+*7B
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,26,29,08,097,20,31,64,333,22,32,53,077,31*78
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,22,32,53,077,31*78
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,22,32,53,077,31*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,22,32,53,077,31*78
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,22,32,53,077,31*78
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,22,32,53,077,31*78
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,21,10,28,164,24,22,31,306,29,25,,,25*48
+*78
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,26,29,08,097,20,31,64,333,21,32,53,077,30*7A
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,21,32,53,077,30*7A
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,21,32,53,077,30*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,21,32,53,077,30*7A
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,21,32,53,077,30*7A
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,21,32,53,077,30*7A
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,24,10,28,164,23,22,31,306,29,25,,,25*4A
+*7A
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,26,29,08,097,19,31,64,333,23,32,53,077,31*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,23,32,53,077,31*73
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,23,32,53,077,31*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,23,32,53,077,31*73
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,23,32,53,077,31*73
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,23,32,53,077,31*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,22,10,28,164,25,22,31,306,30,25,,,25*42
+*73
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,27,29,08,097,19,31,64,333,21,32,53,077,31*70
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,21,32,53,077,31*70
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,21,32,53,077,31*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,21,32,53,077,31*70
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,21,32,53,077,31*70
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,21,32,53,077,31*70
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,23,10,28,164,24,22,31,306,29,25,,,24*4B
+*70
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,27,29,08,097,19,31,64,333,22,32,53,077,31*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,22,32,53,077,31*73
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,22,32,53,077,31*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,22,32,53,077,31*73
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,22,32,53,077,31*73
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,22,32,53,077,31*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,21,10,28,164,24,22,31,306,29,25,,,25*48
+*73
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,27,29,08,097,20,31,64,333,24,32,53,077,32*7C
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,24,32,53,077,32*7C
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,24,32,53,077,32*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,24,32,53,077,32*7C
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,24,32,53,077,32*7C
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,24,32,53,077,32*7C
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,22,10,28,164,24,22,31,306,29,25,,,25*4B
+*7C
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,28,29,08,097,23,31,64,333,24,32,53,077,31*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,24,32,53,077,31*73
+  len 41
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+,18,02,154,*4C
+1,64,333,24,32,53,077,31*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+2,154,*4C
+1,64,333,24,32,53,077,31*73
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+2,154,*4C
+1,64,333,24,32,53,077,31*73
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+2,154,*4C
+1,64,333,24,32,53,077,31*73
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,11,03,15,317,21,10,28,164,22,22,31,306,29,25,,,25*4E
+*73
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,11,26,43,187,28,29,08,097,22,31,64,333,25,32,53,077,31*73
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,11,06,,,,08,,,,18,02,154,*4C
+1,64,333,25,32,53,077,31*73
+  len 41
+==>nmea_callback joy : nmea callback: $GPGGA,063231.0,3033.123966,N,10404.091092,E,1,04,2.7,428.7,M,-31.0,M,,*76
+  len 76
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+66,N,10404.091092,E,1,04,2.7,428.7,M,-31.0,M,,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPRMC,063231.0,A,3033.123966,N,10404.091092,E,,,140217,,,A*62
+1.0,M,,*76
+  len 64
+==>nmea_callback joy : nmea callback: $GPGSA,A,3,10,22,31,32,,,,,,,,,5.7,2.7,5.0*32
+,,140217,,,A*62
+1.0,M,,*76
+  len 47
+Sending discover...
+==>location_callback location: 20211772.833333 -14612509.883333 858993459.000000 0.000000 0.000000 0.000000
+utctime 1487053920000
+==>sv_status_callback joy: satellite num [11]
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,,10,27,164,,18,01,154,,22,31,306,*7B
+
+1.0,M,,*76
+  len 62
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,26,45,187,,29,09,095,,31,64,336,,32,53,078,*7A
+
+1.0,M,,*76
+  len 62
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+29,09,095,,31,64,336,,32,53,078,*7A
+
+1.0,M,,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,095,,31,64,336,,32,53,078,*7A
+
+1.0,M,,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,095,,31,64,336,,32,53,078,*7A
+
+1.0,M,,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,095,,31,64,336,,32,53,078,*7A
+
+1.0,M,,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,10,27,164,27,22,31,306,29,26,45,187,28,32,53,078,32*74
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,03,16,317,,18,01,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 62
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+18,01,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,10,27,164,27,22,31,306,29,26,45,187,28,32,53,078,32*74
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,03,16,317,,18,01,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 62
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+18,01,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+,154,,29,09,095,,31,64,336,*70
+,32*74
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,21,10,27,164,24,22,31,306,29,26,45,187,26*72
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,31,64,336,21,32,53,078,32,18,01,154,,29,09,095,*7B
+72
+,*76
+  len 66
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+1,32,53,078,32,18,01,154,,29,09,095,*7B
+72
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,078,32,18,01,154,,29,09,095,*7B
+72
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,078,32,18,01,154,,29,09,095,*7B
+72
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,078,32,18,01,154,,29,09,095,*7B
+72
+,*76
+  len 25
+==>sv_status_callback joy: satellite num [8]
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,21,10,27,164,24,22,31,306,27,26,45,187,26*7C
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,31,64,336,20,32,53,078,31,18,01,154,,29,09,095,*79
+7C
+,*76
+  len 66
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+0,32,53,078,31,18,01,154,,29,09,095,*79
+7C
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,078,31,18,01,154,,29,09,095,*79
+7C
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,078,31,18,01,154,,29,09,095,*79
+7C
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,078,31,18,01,154,,29,09,095,*79
+7C
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,21,10,27,164,26,22,31,306,23,26,45,187,23*7F
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,31,64,336,19,32,53,078,31,18,01,154,,29,09,095,*73
+7F
+,*76
+  len 66
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+9,32,53,078,31,18,01,154,,29,09,095,*73
+7F
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+53,078,31,18,01,154,,29,09,095,*73
+7F
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+53,078,31,18,01,154,,29,09,095,*73
+7F
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+53,078,31,18,01,154,,29,09,095,*73
+7F
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,20,10,27,164,27,22,31,306,25,26,45,187,24*7E
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,19,31,64,336,19,32,53,078,33,18,01,154,*79
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+9,31,64,336,19,32,53,078,33,18,01,154,*79
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,19,32,53,078,33,18,01,154,*79
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,19,32,53,078,33,18,01,154,*79
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,19,32,53,078,33,18,01,154,*79
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,20,10,27,164,26,22,31,306,24,26,45,187,21*7B
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,18,31,64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+8,31,64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 25
+==>sv_status_callback joy: satellite num [8]
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,19,10,27,164,24,22,31,306,23,26,45,187,25*70
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,18,31,64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+8,31,64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,18,32,53,078,32,18,01,154,*78
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,19,10,27,164,24,22,31,306,23,26,45,187,23*76
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,17,31,64,336,18,32,53,078,32,18,01,154,*77
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+7,31,64,336,18,32,53,078,32,18,01,154,*77
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,18,32,53,078,32,18,01,154,*77
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,18,32,53,078,32,18,01,154,*77
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,18,32,53,078,32,18,01,154,*77
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,19,10,27,164,23,22,31,306,25,26,45,187,23*77
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,17,31,64,336,17,32,53,078,32,18,01,154,*78
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+7,31,64,336,17,32,53,078,32,18,01,154,*78
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,17,32,53,078,32,18,01,154,*78
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,17,32,53,078,32,18,01,154,*78
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,17,32,53,078,32,18,01,154,*78
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,19,10,27,164,25,22,31,306,25,26,45,187,25*77
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,18,31,64,336,17,32,53,078,31,18,01,154,*74
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+8,31,64,336,17,32,53,078,31,18,01,154,*74
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,17,32,53,078,31,18,01,154,*74
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,17,32,53,078,31,18,01,154,*74
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,17,32,53,078,31,18,01,154,*74
+
+,*76
+  len 25
+==>sv_status_callback joy: satellite num [8]
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,19,10,27,164,25,22,31,306,21,26,45,187,24*72
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,19,31,64,336,17,32,53,078,32,18,01,154,*76
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+9,31,64,336,17,32,53,078,32,18,01,154,*76
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,17,32,53,078,32,18,01,154,*76
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,17,32,53,078,32,18,01,154,*76
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,17,32,53,078,32,18,01,154,*76
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,19,10,27,164,24,22,31,306,24,26,45,187,25*77
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,20,31,64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+0,31,64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 25
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,25,10,27,164,24,22,31,306,21,26,45,187,24*7C
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,20,31,64,336,17,32,53,078,31,18,01,154,*7F
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+0,31,64,336,17,32,53,078,31,18,01,154,*7F
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,17,32,53,078,31,18,01,154,*7F
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,17,32,53,078,31,18,01,154,*7F
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,17,32,53,078,31,18,01,154,*7F
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,21,10,27,164,24,22,31,306,25,26,45,187,22*7A
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,20,31,64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+0,31,64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 25
+==>sv_status_callback joy: satellite num [8]
+Sending discover...
+==>nmea_callback joy : nmea callback: $GPGSV,2,1,08,03,16,317,21,10,27,164,24,22,31,306,23,26,45,187,22*7C
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,2,2,08,29,09,095,20,31,64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 68
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+0,31,64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+64,336,17,32,53,078,32,18,01,154,*7C
+
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSV,3,1,09,03,16,317,22,10,27,164,25,22,31,306,24,25,,,25*42
+C
+
+,*76
+  len 65
+==>nmea_callback joy : nmea callback: $GPGSV,3,2,09,26,45,187,24,29,09,095,20,31,64,336,17,32,53,078,31*7A
+,*76
+  len 70
+==>nmea_callback joy : nmea callback: $GPGSV,3,3,09,18,01,154,*48
+,09,095,20,31,64,336,17,32,53,078,31*7A
+,*76
+  len 29
+==>nmea_callback joy : nmea callback: $GPVTG,,T,,M,,N,,K,N*2C
+48
+,09,095,20,31,64,336,17,32,53,078,31*7A
+,*76
+  len 25
+==>nmea_callback joy : nmea callback: $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+09,095,20,31,64,336,17,32,53,078,31*7A
+,*76
+  len 30
+==>nmea_callback joy : nmea callback: $GPGGA,,,,,,0,,,,,,,,*66
+1E
+09,095,20,31,64,336,17,32,53,078,31*7A
+,*76
+  len 26
+==>nmea_callback joy : nmea callback: $GPRMC,,V,,,,,,,,,,N*53
+
+1E
+09,095,20,31,64,336,17,32,53,078,31*7A
+,*76
+  len 25
+
+[END] 2017/2/14 14:34:37

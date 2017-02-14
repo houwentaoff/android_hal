@@ -999,21 +999,24 @@ static int athr_run_hook(char* name)
 		return 0;
     }
     //sprintf(buf,"%s/%s" , prop, name);
-    sprintf(buf,"echo 'etc gps %s'...\n" , name);
-    ALOGI("%s: going to execute hook  \"%s\"\n", __FUNCTION__, buf);
-    return !system(buf);
+    //sprintf(buf,"echo 'etc gps %s'...\n" , name);
+    sprintf(buf, "/etc/init.d/S60powergps %s", name);
+    //ALOGI("%s: going to execute hook  \"%s\"\n", __FUNCTION__, buf);
+    return system(buf);
 }
 
 static int athr_run_hook_start()
 {
-    return 0;//return athr_run_hook("start");
+    return athr_run_hook("restart");
 }
 
 static int athr_run_hook_stop()
 {
-    return 0;//athr_run_hook("stop");
+    return athr_run_hook("stop");
 }
 
+
+static char   prop_control[PROPERTY_VALUE_MAX]="/dev/ttyUSB4"; /* control inteface need to modify. by joy */
 
 void gps_wakeup(GpsState *state)
 {
@@ -1032,7 +1035,15 @@ void gps_wakeup(GpsState *state)
 			D("Send WAKEUP command to GPS\n");
 			sleep_lock = time((time_t*)NULL);
 			/* send $PUNV,WAKEUP command*/
-			if (write(state->fd, "$PUNV,WAKEUP*2C\r\n", 17) < 0)
+            if (state->gps_control_fd <= 0)
+            {
+                state->gps_control_fd = open( prop_control, O_RDWR | O_NOCTTY );
+                if (state->gps_control_fd < 0)
+                {
+                    printf("open gps control fail\n");
+                }
+            }
+			if (write(state->gps_control_fd, "at^wpdgp\r\n", 10) < 0)
 			{
 				D("Send WAKEUP command ERROR!\n");
 				bOrionShutdown = 1;
