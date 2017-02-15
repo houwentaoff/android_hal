@@ -295,6 +295,7 @@ int main ( int argc, char *argv[] )
         return -1;
     }
     android_location_GpsLocationProvider_init();
+    android_location_GpsLocationProvider_set_position_mode(GPS_POSITION_MODE_STANDALONE, 0, 3000, 0, 0);
     android_location_GpsLocationProvider_start();
     if (gpio_export(LED1) < 0)
     {

@@ -1191,7 +1191,7 @@ gps_state_thread( void*  arg )
     epoll_register( epoll_ctrlfd, control_fd );
 
     D("gps thread running\n");
-    athr_gps_set_fix_frequency(3);//joy
+    //athr_gps_set_fix_frequency(3);//joy
 
 	state->tmr_thread = state->callbacks.create_thread_cb("athr_gps_tmr", gps_timer_thread, state);
 	if (!state->tmr_thread)
@@ -1756,6 +1756,7 @@ static int athr_gps_set_position_mode(GpsPositionMode mode, GpsPositionRecurrenc
 		s->fix_freq =1;
 	}
     D("gps fix frquency set to %d sec", s->fix_freq);
+#if 0
     switch(s->fix_freq)
     {
         case 1:
@@ -1771,6 +1772,7 @@ static int athr_gps_set_position_mode(GpsPositionMode mode, GpsPositionRecurrenc
             write(s->fd, "$PUNV,SET,28,0,0,0*cc\r\n",23);
             break;
     }
+#endif
     return 0;
 }
 
