@@ -23,6 +23,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <math.h>
+#include <time.h>
 #include "gpio.h"
 
 static const GpsInterface* sGpsInterface = NULL;
@@ -130,10 +131,11 @@ static void location_callback(GpsLocation* location)
 {
     if (!location)
         return;
+    time_t time = (time_t)(location->timestamp/1000);
 
     printf("==>%s location: %lf %lf %lf %f %f %f\n", __FUNCTION__, location->latitude, location->longitude,
             location->altitude, location->speed, location->bearing, location->accuracy);
-    printf("utctime %llu\n", location->timestamp);
+    printf("utctime %s\n", ctime(&time));
 }
 static void status_callback(GpsStatus* status)
 {
@@ -164,7 +166,7 @@ static void sv_status_callback(GpsSvStatus* sv_status)
 }
 static void nmea_callback(GpsUtcTime timestamp, const char* nmea, int length)
 {
-    printf("==>%s joy : nmea callback: %s  len %d\n", __FUNCTION__, nmea, length);
+    printf("==>%s joy : nmea callback: %s \n", __FUNCTION__, nmea);
 }
 static void set_capabilities_callback(uint32_t capabilities)
 {

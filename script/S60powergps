@@ -13,7 +13,7 @@ start() {
     /bin/echo "1" >/sys/class/gpio/gpio288/value
     /bin/sleep 0.5
     /bin/echo "0" >/sys/class/gpio/gpio288/value
-    /bin/sleep 3 ##
+    /bin/sleep 3 ##waiting for attach /dev/ttyUSB*
     /bin/echo "OK"
 }
 stop() {
