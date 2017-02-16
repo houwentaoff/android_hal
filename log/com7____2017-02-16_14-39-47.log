@@ -1,0 +1,3083 @@
+[BEGIN] 2017/2/16 14:39:52
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,33,14,63,037,32,22,,,33,31,,,33*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,32,50,087,34,03,20,314,,06,,,,08,,,*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,26,52,188,,27,,,*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,11,090,*49
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,33,14,63,037,33,22,,,33,31,,,34*4E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,32,50,087,33,03,20,314,,06,,,,08,,,*7F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,26,52,188,,27,,,*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,11,090,*49
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,33,14,63,037,33,22,,,32,31,,,33*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,32,50,087,33,03,20,314,,06,,,,08,,,*7F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,26,52,188,,27,,,*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,11,090,*49
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,32,14,63,037,32,22,,,32,31,,,34*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,32,50,087,33,03,20,314,,06,,,,08,,,*7F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,26,52,188,,27,,,*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,11,090,*49
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,33,14,63,037,32,22,,,33,31,,,33*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,32,50,087,33,03,20,314,,06,,,,08,,,*7F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,26,52,188,,27,,,*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,11,090,*49
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+
+##### 2005-01-07 03:07:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 0 (0 bytes)
+# PUSH_DATA acknowledged: 0.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 1105067224 sec)
+# no valid GPS coordinates available yet
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:07:04 GMT","rxnb":0,"rxok":0,"rxfw":0,"ackr":0.0,"dwnb":0,"txnb":0}}
+[INFO] Fri Jan  7 03:07:04 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+INFO: [up] PUSH_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,32,14,63,037,32,22,,,32,26,52,188,31*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,31,,,33,32,50,087,32,03,20,314,,06,,,*74
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,08,,,,18,,,,19,,,,27,,,*70
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,11,090,*49
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+INFO: [down] PULL_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,32,14,63,037,32,22,,,32,26,52,188,31*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,29,31,,,33,32,50,087,31,03,20,314,*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,32,14,63,037,32,22,,,33,26,52,188,31*7B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,30,31,,,33,32,50,087,32,03,20,314,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,32,14,63,037,32,22,,,33,26,52,188,31*7B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,30,31,,,33,32,50,087,31,03,20,314,*40
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+[INFO] Fri Jan  7 03:07:09 2005 src/dgram-tcp.c:102:associate(): connected with tcp://loraflow.io:4881 via [tcp socket 4]
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,31,14,63,037,32,22,,,32,26,52,188,30*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,30,31,,,33,32,50,087,31,03,20,314,*40
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,31,14,63,037,33,22,,,33,26,52,188,31*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,30,31,,,34,32,50,087,31,03,20,314,*47
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,31,14,63,037,32,22,,,33,26,52,188,30*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,28,31,,,33,32,50,087,31,03,20,314,*49
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,32,14,63,037,32,22,,,33,26,52,188,31*7B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,26,31,,,33,32,50,087,31,03,20,314,*47
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,31,14,63,037,33,22,,,33,26,52,188,30*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,25,31,,,33,32,50,087,31,03,20,314,*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,,,31,14,63,037,32,22,,,32,26,52,188,30*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,29,11,090,26,31,,,32,32,50,087,31,03,20,314,*46
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,06,,,,08,,,,18,,,,19,,,*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,27,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,27,10,,,31,14,63,037,32,22,,,32*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,26,52,188,30,29,11,090,25,31,,,32,32,50,087,31*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,03,20,314,,06,,,,08,,,,18,,,*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,19,,,,27,,,*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+INFO: [down] PULL_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,27,10,,,31,14,63,037,32,22,,,32*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,26,52,188,29,29,11,090,25,31,,,32,32,50,087,31*4C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,03,20,314,,06,,,,08,,,,18,,,*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,19,,,,27,,,*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,27,10,,,31,14,63,037,32,22,,,32*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,26,52,188,31,29,11,090,25,31,,,32,32,50,087,32*46
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,03,20,314,,06,,,,08,,,,18,,,*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,19,,,,27,,,*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,27,10,,,32,14,63,037,32,22,,,32*4C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,26,52,188,31,29,11,090,21,31,,,33,32,50,087,33*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,03,20,314,,06,,,,08,,,,18,,,*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,19,,,,27,,,*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,27,10,,,33,14,63,037,32,22,,,32*4D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,26,52,188,31,29,11,090,24,31,,,32,32,50,087,34*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,03,20,314,,06,,,,08,,,,18,,,*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,19,,,,27,,,*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,27,10,,,33,14,63,037,31,22,,,32*4E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,26,52,188,31,29,11,090,27,31,,,32,32,50,087,34*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,03,20,314,,06,,,,08,,,,18,,,*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,19,,,,27,,,*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,27,10,,,34,14,63,037,29,22,,,30*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,26,52,188,32,29,11,090,27,31,,,32,32,50,087,35*40
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,03,20,314,,06,,,,08,,,,18,,,*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,19,,,,27,,,*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,30,10,,,33,14,63,037,29,22,,,30*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,26,52,188,33,29,11,090,28,31,,,31,32,50,087,35*4D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,03,20,314,,06,,,,08,,,,18,,,*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,19,,,,27,,,*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,33,14,63,037,29,22,,,31*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,28,26,52,188,32,29,11,090,28,31,,,32*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,50,087,35,03,20,314,,06,,,,08,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,33,14,63,037,29,22,,,30*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,30,26,52,188,32,29,11,090,26,31,,,31*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,50,087,35,03,20,314,,06,,,,08,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,33,14,63,037,29,22,,,30*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,30,26,52,188,33,29,11,090,26,31,,,31*7B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,50,087,35,03,20,314,,06,,,,08,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+INFO: [down] PULL_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,33,14,63,037,29,22,,,31*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,30,26,52,188,32,29,11,090,26,31,,,31*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,50,087,35,03,20,314,,06,,,,08,,,*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,33,14,63,037,28,22,,,31*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,29,26,52,188,33,29,11,090,26,31,,,30*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,50,087,36,03,20,314,,06,,,,08,,,*7D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,33,14,63,037,28,22,,,30*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,29,26,52,188,32,29,11,090,24,31,,,31*70
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,50,087,36,03,20,314,,06,,,,08,,,*7D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,33,14,63,037,30,22,,,30*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,29,26,52,188,32,29,11,090,22,31,,,31*76
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,49,087,36,03,20,314,,06,,,,08,,,*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,34,14,63,037,30,22,,,30*4D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,28,26,52,188,33,29,11,090,24,31,,,31*70
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,49,087,36,03,20,314,,06,,,,08,,,*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,33,14,63,037,30,22,,,30*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,30,26,52,188,33,29,11,090,26,31,,,32*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,49,087,36,03,20,314,,06,,,,08,,,*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,34,14,63,037,31,22,,,30*4C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,29,26,52,188,33,29,11,090,26,31,,,32*70
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,49,087,36,03,20,314,,06,,,,08,,,*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,30,10,,,34,14,63,037,31,22,,,29*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,29,26,52,188,33,29,11,090,24,31,,,32*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,49,087,36,03,20,314,,06,,,,08,,,*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,31,10,,,34,14,63,037,31,22,,,29*45
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,29,26,52,188,33,29,11,090,27,31,,,32*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,49,087,36,03,20,314,,06,,,,08,,,*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+
+##### 2005-01-07 03:07:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (111 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 1105067254 sec)
+# no valid GPS coordinates available yet
+##### END #####
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:33122¦Ìs) - drift=6326¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+JSON up: {"stat":{"time":"2005-01-07 03:07:34 GMT","rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,29,10,21,165,34,14,63,039,31,22,35,300,28*47
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,29,26,52,188,34,29,11,090,28,31,,,30*7B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,49,087,35,03,20,314,,06,,,,08,,,*76
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,15,04,,,29,10,21,165,34,14,63,039,31,22,35,300,28*47
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,15,25,,,29,26,52,188,34,29,11,090,28,31,,,30*7B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,15,32,49,087,35,03,20,314,,06,,,,08,,,*76
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,15,18,,,,19,,,,27,,,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+INFO: [down] PULL_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,3,1,10,04,,,30,10,21,165,34,14,64,039,31,22,35,300,29*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,10,25,,,29,26,52,188,33,29,11,090,27,31,,,30*71
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,10,32,49,088,35,03,21,314,*74
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,10,04,,,29,10,21,165,34,14,64,039,31,22,35,300,30*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,10,25,,,29,26,52,188,33,29,11,090,25,31,,,31*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,10,32,49,088,36,03,21,314,*77
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,10,04,,,29,10,21,165,34,14,64,039,31,22,35,300,29*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,10,25,,,29,26,52,188,33,29,11,090,24,31,,,31*73
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,10,32,49,088,36,03,21,314,*77
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,10,04,,,29,10,21,165,34,14,64,039,31,22,35,300,29*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,10,25,,,29,26,52,188,33,29,11,090,25,31,,,31*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,10,32,49,088,36,03,21,314,*77
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,10,04,,,29,10,21,165,34,14,64,039,31,22,35,300,29*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,10,25,,,29,26,52,188,33,29,11,090,25,31,,,31*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,10,32,49,088,36,03,21,314,*77
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,12,04,,,28,10,21,165,34,14,64,039,31,22,35,300,29*40
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,12,25,,,29,26,52,188,33,29,11,090,22,31,,,30*76
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,12,32,49,088,35,03,21,314,,06,,,,08,,,*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 0 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,12,04,,,27,10,21,165,34,14,64,039,31,22,35,300,30*47
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,12,25,,,29,26,52,188,33,29,11,090,22,31,,,30*76
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,12,32,49,088,35,03,21,314,,06,,,,08,,,*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,063902.0,3033.117635,N,10404.084933,E,1,05,1.4,477.4,M,-31.0,M,,*7D
+Note: Valid GGA sentence, 5 sat, lat 30deg 33.118min N, lon 104deg04.085min E, alt 477
+Note: parsing NMEA frame> $GPVTG,,T,0.0,M,0.0,N,0.0,K,A*0D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPRMC,063902.0,A,3033.117635,N,10404.084933,E,0.0,,160217,,,A*4D
+Note: Valid RMC sentence, GPS locked, date: 2017-02-16T06:39:02.000Z
+Warning: correction range exceeded
+WARNING: [gps] GPS out of sync, keeping previous time reference
+Note: parsing NMEA frame> $GPGSA,A,2,10,14,22,26,32,,,,,,,,1.7,1.4,1.0*30
+Note: ignored NMEA sentence
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+# 
+# ps
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    4 root     [kworker/0:0]
+    5 root     [kworker/0:0H]
+    6 root     [kworker/u2:0]
+    7 root     [rcu_preempt]
+    8 root     [rcu_bh]
+    9 root     [rcu_sched]
+   10 root     [khelper]
+   11 root     [kdevtmpfs]
+   12 root     [netns]
+   13 root     [kworker/u2:1]
+  165 root     [writeback]
+  167 root     [bioset]
+  169 root     [kblockd]
+  180 root     [khubd]
+  192 root     [kworker/0:1]
+  194 root     [cfg80211]
+  276 root     [rpciod]
+  283 root     [kswapd0]
+  331 root     [fsnotify_mark]
+  334 root     [nfsiod]
+  340 root     [crypto]
+  438 root     [nuc970-spi0]
+  443 root     [nuc970-spi1]
+  527 root     [deferwq]
+  534 root     [ubi_bgt0d]
+  538 root     [ubifs_bgt0_0]
+  550 root     /sbin/syslogd -n
+  553 root     /sbin/klogd -n
+  572 nobody   /usr/sbin/gpsd -P /var/run/gpsd.pid /dev/ttyS1
+  579 root     /usr/sbin/sshd
+  607 root     [ubi_bgt1d]
+  610 root     [ubifs_bgt1_1]
+  611 root     -sh
+  642 root     pppd call td-dailer
+  650 root     ./senzflow-lorabridge
+  666 root     ./lora_pkt_fwd
+  676 root     ps
+# 
+##### 2005-01-07 03:08:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (113 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 1105067284 sec)
+# no valid GPS coordinates available yet
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:08:04 GMT","rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+# ./startgps.sh INFO: [down] PULL_ACK received in 0 ms
+
+# 
+# 
+# 
+##### 2005-01-07 03:08:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (113 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 1105067314 sec)
+# no valid GPS coordinates available yet
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:08:34 GMT","rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:39520¦Ìs) - drift=6398¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+INFO: [up] PUSH_ACK received in 2 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+# 
+##### 2005-01-07 03:09:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (113 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 1105067344 sec)
+# no valid GPS coordinates available yet
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:09:04 GMT","rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+
+# INFO: [down] PULL_ACK received in 0 ms
+# ./startgps.sh 
+# Note: parsing NMEA frame> $GPGSV,2,1,07,03,21,314,,10,20,165,,14,64,042,,22,36,299,*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,26,53,188,,29,11,090,,32,49,090,*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,35,26,53,188,32,03,21,314,,14,64,042,*7F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,22,36,299,,29,11,090,,32,49,090,*4E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,36,26,53,188,33,03,21,314,,14,64,042,*7D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,22,36,299,,29,11,090,,32,49,090,*4E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,36,14,64,042,31,22,36,299,32,26,53,188,32*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,29,11,090,26,32,49,090,36,03,21,314,*4E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,36,14,64,042,31,22,36,299,32,26,53,188,32*7E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,29,11,090,26,32,49,090,36,03,21,314,*4E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,35,14,64,042,31,22,36,299,30,26,53,188,31*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,29,11,090,25,32,49,090,37,03,21,314,*4C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+INFO: [down] PULL_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,36,14,64,042,31,22,36,299,28,26,53,188,32*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,29,11,090,23,32,49,090,35,03,21,314,*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,36,14,64,042,30,22,36,299,28,26,53,188,33*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,29,11,090,28,32,49,090,35,03,21,314,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,36,14,64,042,30,22,36,299,27,26,53,188,33*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,29,11,090,27,32,49,090,36,03,21,314,*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,064040.0,3033.117056,N,10404.085484,E,1,05,1.4,485.0,M,-31.0,M,,*7F
+Note: Valid GGA sentence, 5 sat, lat 30deg 33.117min N, lon 104deg04.085min E, alt 485
+Note: parsing NMEA frame> $GPVTG,,T,0.0,M,0.0,N,0.0,K,A*0D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPRMC,064040.0,A,3033.117056,N,10404.085484,E,0.0,,160217,,,A*46
+Note: Valid RMC sentence, GPS locked, date: 2017-02-16T06:40:40.000Z
+Warning: correction range exceeded
+WARNING: [gps] GPS out of sync, keeping previous time reference
+Note: parsing NMEA frame> $GPGSA,A,2,10,14,22,26,32,,,,,,,,1.7,1.4,1.0*30
+Note: ignored NMEA sentence
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:09:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (113 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 1105067374 sec)
+# no valid GPS coordinates available yet
+##### END #####
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:45940¦Ìs) - drift=6420¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+JSON up: {"stat":{"time":"2005-01-07 03:09:34 GMT","rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+# ./startgps.sh 
+# Note: parsing NMEA frame> $GPGSV,2,1,07,10,20,165,36,32,49,090,36,03,21,313,,14,64,042,*79
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,22,36,299,,26,53,188,,29,11,088,*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+INFO: [down] PULL_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,2,1,07,03,21,313,23,10,20,165,37,14,64,042,31,22,36,299,24*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,26,53,188,34,32,49,090,36,29,11,088,*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,03,21,313,23,10,20,165,37,14,64,042,31,22,36,299,24*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,26,53,188,34,32,49,090,36,29,11,088,*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,03,21,313,22,10,20,165,37,14,64,042,30,22,36,299,24*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,26,53,188,33,32,49,090,36,29,12,088,*45
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,03,21,313,22,10,20,165,37,14,64,042,29,22,36,299,24*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,26,53,188,34,32,49,090,36,29,12,088,*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,07,03,21,313,22,10,20,165,37,14,64,042,29,22,36,299,24*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,07,26,53,188,34,29,12,088,19,32,49,090,37*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,08,03,21,313,23,10,20,165,37,14,64,042,30,22,36,299,24*74
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,08,26,53,188,33,29,12,088,20,31,,,30,32,49,090,37*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,08,03,21,313,23,10,20,165,37,14,64,042,29,22,36,299,25*7D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,08,26,53,188,33,29,12,088,21,31,,,30,32,49,090,37*49
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,08,03,21,313,23,10,20,165,37,14,64,042,30,22,36,299,25*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,08,26,53,188,32,29,12,088,22,31,,,30,32,49,090,36*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,08,03,21,313,24,10,20,165,37,14,64,042,30,22,36,299,25*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,08,26,53,188,33,29,12,088,23,31,,,31,32,49,090,37*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,2,1,08,03,21,313,23,10,20,165,37,14,64,042,28,22,36,299,25*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,2,2,08,26,53,188,33,29,12,088,21,31,,,32,32,49,090,37*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,064117.0,3033.117892,N,10404.079385,E,1,05,1.4,490.7,M,-31.0,M,,*7A
+Note: Valid GGA sentence, 5 sat, lat 30deg 33.118min N, lon 104deg04.079min E, alt 490
+Note: parsing NMEA frame> $GPVTG,0.0,T,0.0,M,0.0,N,0.0,K,A*23
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPRMC,064117.0,A,3033.117892,N,10404.079385,E,0.0,169.3,160217,,,A*63
+Note: Valid RMC sentence, GPS locked, date: 2017-02-16T06:41:17.000Z
+Warning: correction range exceeded
+Warning: 3 successive aberrant sync attempts, sync reset
+Warning: localization error processing not implemented yet
+Note: parsing NMEA frame> $GPGSA,A,2,10,14,22,26,32,,,,,,,,1.7,1.4,0.9*38
+Note: ignored NMEA sentence
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:10:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (113 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Valid time reference (age: 7 sec)
+# GPS coordinates: latitude 30.55196, longitude 104.06799, altitude 490 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:10:04 GMT","lati":30.55196,"long":104.06799,"alti":490,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:10:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 37 sec)
+# GPS coordinates: latitude 30.55196, longitude 104.06799, altitude 490 m
+##### END #####
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:52366¦Ìs) - drift=6426¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+JSON up: {"stat":{"time":"2005-01-07 03:10:34 GMT","lati":30.55196,"long":104.06799,"alti":490,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:11:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 67 sec)
+# GPS coordinates: latitude 30.55196, longitude 104.06799, altitude 490 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:11:04 GMT","lati":30.55196,"long":104.06799,"alti":490,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+option1 ttyUSB3: usb_wwan_indat_callback: resubmit read urb failed. (-19)
+option1 ttyUSB3: usb_wwan_indat_callback: resubmit read urb failed. (-19)
+option1 ttyUSB3: usb_wwan_indat_callback: resubmit read urb failed. (-19)
+option1 ttyUSB3: usb_wwan_indat_callback: resubmit read urb failed. (-19)
+option1 ttyUSB0: usb_wwan_indat_callback: resubmit read urb failed. (-19)
+option1 ttyUSB0: usb_wwan_indat_callback: resubmit read urb failed. (-19)
+option1 ttyUSB0: usb_wwan_indat_callback: resubmit read urb failed. (-19)
+option1 ttyUSB0: usb_wwan_indat_callback: resubmit read urb failed. (-19)
+usb 1-2: USB disconnect, device number 2
+option1 ttyUSB0: GSM modem (1-port) converter now disconnected from ttyUSB0
+option 1-2:2.2: device disconnected
+option1 ttyUSB1: GSM modem (1-port) converter now disconnected from ttyUSB1
+option 1-2:2.3: device disconnected
+option1 ttyUSB2: GSM modem (1-port) converter now disconnected from ttyUSB2
+option 1-2:2.4: device disconnected
+option1 ttyUSB3: GSM modem (1-port) converter now disconnected from ttyUSB3
+option 1-2:2.5: device disconnected
+option1 ttyUSB4: GSM modem (1-port) converter now disconnected from ttyUSB4
+option 1-2:2.6: device disconnected
+Stopping gps: OK
+Starting gps: INFO: [down] PULL_ACK received in 0 ms
+usb 1-2: new high-speed USB device number 3 using nuc970-ehci
+usb 1-2: New USB device found, idVendor=12d1, idProduct=1573
+usb 1-2: New USB device strings: Mfr=5, Product=4, SerialNumber=0
+usb 1-2: Product: HUAWEI Mobile
+usb 1-2: Manufacturer: Huawei Technologies
+option 1-2:2.2: GSM modem (1-port) converter detected
+usb 1-2: GSM modem (1-port) converter now attached to ttyUSB0
+option 1-2:2.3: GSM modem (1-port) converter detected
+usb 1-2: GSM modem (1-port) converter now attached to ttyUSB1
+option 1-2:2.4: GSM modem (1-port) converter detected
+usb 1-2: GSM modem (1-port) converter now attached to ttyUSB2
+option 1-2:2.5: GSM modem (1-port) converter detected
+usb 1-2: GSM modem (1-port) converter now attached to ttyUSB3
+option 1-2:2.6: GSM modem (1-port) converter detected
+usb 1-2: GSM modem (1-port) converter now attached to ttyUSB4
+OK
+INFO: [main] TTY port /dev/ttyUSB3 open for GPS synchronization
+Note: parsing NMEA frame> $GPGSV,3,1,12,32,48,090,37,03,21,313,,06,,,,08,,,*77
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,12,10,20,165,,14,63,043,,18,,,,19,,,*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,12,22,36,299,,26,54,188,,27,,,,29,12,088,*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,12,32,48,090,38,03,21,313,,06,,,,08,,,*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,12,10,20,165,,14,63,043,,18,,,,19,,,*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,12,22,36,299,,26,54,188,,27,,,,29,12,088,*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,12,32,48,090,38,03,21,313,,06,,,,08,,,*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,12,10,20,165,,14,63,043,,18,,,,19,,,*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,12,22,36,299,,26,54,188,,27,,,,29,12,088,*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,31,,,29,32,48,090,38,03,21,313,,06,,,*7F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,08,,,,10,20,165,,14,63,043,,18,,,*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,19,,,,22,36,299,,26,54,188,,27,,,*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,31,,,29,32,48,090,38,03,21,313,,06,,,*7F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,08,,,,10,20,165,,14,63,043,,18,,,*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,19,,,,22,36,299,,26,54,188,,27,,,*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+INFO: [down] PULL_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,4,1,13,31,,,30,32,48,090,37,03,21,313,,06,,,*78
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,08,,,,10,20,165,,14,63,043,,18,,,*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,19,,,,22,36,299,,26,54,188,,27,,,*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,20,165,36,31,,,30,32,48,090,37,03,21,313,*4A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,06,,,,08,,,,14,63,043,,18,,,*4D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,19,,,,22,36,299,,26,54,188,,27,,,*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,20,165,37,26,54,188,30,31,,,30,32,48,090,37*4D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,03,21,313,,06,,,,08,,,,14,63,043,*75
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,22,36,299,,27,,,*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,20,165,37,14,63,043,29,26,54,188,32,31,,,30*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,32,48,090,37,03,21,313,,06,,,,08,,,*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,22,36,299,,27,,,*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,10,20,165,37,14,63,043,30,26,54,188,31,31,,,30*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,32,48,090,37,03,21,313,,06,,,,08,,,*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,22,36,299,,27,,,*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,29,10,20,165,37,14,63,043,30,26,54,188,31*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,31,,,30,32,48,090,37,03,21,313,,06,,,*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,08,,,,18,,,,19,,,,22,36,299,*45
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,27,,,,29,12,088,*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,29,10,20,165,37,14,63,043,30,26,54,188,31*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,31,,,30,32,48,090,37,03,21,313,,06,,,*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,08,,,,18,,,,19,,,,22,36,299,*45
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,27,,,,29,12,088,*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,29,10,20,165,37,14,63,043,30,26,54,188,32*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,31,,,30,32,48,090,37,03,21,313,,06,,,*7C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,08,,,,18,,,,19,,,,22,36,299,*45
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,27,,,,29,12,088,*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,28,10,20,165,37,14,63,043,30,26,54,188,31*40
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,31,,,31,32,48,090,38,03,21,313,,06,,,*72
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,08,,,,18,,,,19,,,,22,36,299,*45
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,27,,,,29,12,088,*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,14,04,,,29,10,20,165,37,14,63,043,30,26,54,188,32*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,14,31,,,31,32,48,090,37,03,21,313,,06,,,*7D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,14,08,,,,18,,,,19,,,,22,36,299,*45
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,14,27,,,,29,12,088,*41
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,04,,,28,10,20,165,37,14,63,043,30,26,54,188,32*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,31,,,31,32,48,090,37,03,21,313,,06,,,*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,22,36,299,,27,,,*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,4,1,13,04,,,28,10,20,165,37,14,63,043,30,26,54,188,32*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,2,13,31,,,31,32,48,090,37,03,21,313,,06,,,*7A
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,3,13,18,,,,19,,,,22,36,299,,27,,,*4F
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,4,4,13,29,12,088,*43
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+INFO: [down] PULL_ACK received in 0 ms
+Note: parsing NMEA frame> $GPGSV,3,1,09,04,,,28,10,19,165,37,14,64,043,29,26,54,188,31*4E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,09,31,,,31,32,48,091,37,03,22,313,,22,36,298,*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,09,29,12,088,*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,09,04,,,29,10,19,165,37,14,64,043,29,22,36,298,28*45
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,09,26,54,188,32,31,,,31,32,48,091,38,03,22,313,*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,09,29,12,088,*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,09,04,,,28,10,19,165,37,14,64,043,29,22,36,298,27*4B
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,09,26,54,188,31,31,,,31,32,48,091,37,03,22,313,*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,09,29,12,088,*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPVTG,,T,,M,,N,,K,N*2C
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSA,A,1,,,,,,,,,,,,,,,*1E
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,,,,,,0,,,,,,,,*66
+Note: Valid GGA sentence, 5 sat, no coordinates
+Note: parsing NMEA frame> $GPRMC,,V,,,,,,,,,,N*53
+Note: Valid RMC sentence, mode N, no date
+ERROR: NO VALID TIME TO RETURN
+WARNING: [gps] could not get UTC time from GPS
+Note: parsing NMEA frame> $GPGSV,3,1,09,04,,,29,10,19,165,37,14,64,043,30,22,36,298,27*42
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,2,09,26,54,188,31,31,,,31,32,48,091,37,03,22,313,*44
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGSV,3,3,09,29,12,088,*48
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPGGA,064254.0,3033.111903,N,10404.080086,E,1,05,1.4,499.9,M,-31.0,M,,*70
+Note: Valid GGA sentence, 5 sat, lat 30deg 33.112min N, lon 104deg04.080min E, alt 499
+Note: parsing NMEA frame> $GPVTG,,T,0.0,M,0.0,N,0.0,K,A*0D
+Note: ignored NMEA sentence
+Note: parsing NMEA frame> $GPRMC,064254.0,A,3033.111903,N,10404.080086,E,0.0,,160217,,,A*4D
+Note: Valid RMC sentence, GPS locked, date: 2017-02-16T06:42:54.000Z
+Warning: correction range exceeded
+Warning: 3 successive aberrant sync attempts, sync reset
+Warning: localization error processing not implemented yet
+Note: parsing NMEA frame> $GPGSA,A,2,10,14,22,26,32,,,,,,,,1.7,1.4,0.9*38
+Note: ignored NMEA sentence
+
+INFO: Disabling GPS mode for concentrator's counter...
+
+##### 2005-01-07 03:11:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 1
+# CRC_OK: 0.00%, CRC_FAIL: 100.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+INFO: host/sx1301 time offset=(1105067192s:58765¦Ìs) - drift=6399¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 0 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:11:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":1,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+# 
+# 
+# INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:12:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Valid time reference (age: 30 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:12:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+[WARN] Fri Jan  7 03:12:16 2005 src/dgram-tcp.c:258:tcp_client_daemon_write(): heartbeat timeout (301)
+[ERROR] Fri Jan  7 03:12:16 2005 src/dgram-tcp.c:290:tcp_client_daemon_write(): errno=0(Success) tcp write fd tcp socket 4
+[INFO] Fri Jan  7 03:12:16 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+[ERROR] Fri Jan  7 03:12:16 2005 src/dgram-tcp-plain.c:49:plain_connect(): get host loraflow.io
+[WARN] Fri Jan  7 03:12:16 2005 src/dgram-tcp.c:104:associate(): cannot connect tcp://loraflow.io:4881
+INFO: [down] PULL_ACK received in 0 ms
+[INFO] Fri Jan  7 03:12:22 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+[ERROR] Fri Jan  7 03:12:22 2005 src/dgram-tcp-plain.c:49:plain_connect(): get host loraflow.io
+[WARN] Fri Jan  7 03:12:22 2005 src/dgram-tcp.c:104:associate(): cannot connect tcp://loraflow.io:4881
+
+# 
+# 
+# ls
+a.out                  local_conf.json        test_loragw_cal
+global_conf.json       lora_pkt_fwd           test_loragw_gps
+global_conf.json.back  lora_pkt_fwd.back      test_loragw_hal
+global_conf_433.json   senzflow-lorabridge    test_loragw_reg
+gwrst                  startgps.sh            test_loragw_spi
+libloragw.a            test.tar.gz            update
+# ps[INFO] Fri Jan  7 03:12:28 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+[ERROR] Fri Jan  7 03:12:28 2005 src/dgram-tcp-plain.c:49:plain_connect(): get host loraflow.io
+[WARN] Fri Jan  7 03:12:28 2005 src/dgram-tcp.c:104:associate(): cannot connect tcp://loraflow.io:4881
+
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    4 root     [kworker/0:0]
+    5 root     [kworker/0:0H]
+    6 root     [kworker/u2:0]
+    7 root     [rcu_preempt]
+    8 root     [rcu_bh]
+    9 root     [rcu_sched]
+   10 root     [khelper]
+   11 root     [kdevtmpfs]
+   12 root     [netns]
+   13 root     [kworker/u2:1]
+  165 root     [writeback]
+  167 root     [bioset]
+  169 root     [kblockd]
+  180 root     [khubd]
+  192 root     [kworker/0:1]
+  194 root     [cfg80211]
+  276 root     [rpciod]
+  283 root     [kswapd0]
+  331 root     [fsnotify_mark]
+  334 root     [nfsiod]
+  340 root     [crypto]
+  438 root     [nuc970-spi0]
+  443 root     [nuc970-spi1]
+  527 root     [deferwq]
+  534 root     [ubi_bgt0d]
+  538 root     [ubifs_bgt0_0]
+  550 root     /sbin/syslogd -n
+  553 root     /sbin/klogd -n
+  572 nobody   /usr/sbin/gpsd -P /var/run/gpsd.pid /dev/ttyS1
+  579 root     /usr/sbin/sshd
+  607 root     [ubi_bgt1d]
+  610 root     [ubifs_bgt1_1]
+  611 root     -sh
+  650 root     ./senzflow-lorabridge
+  666 root     ./lora_pkt_fwd
+  681 root     [kworker/u2:2]
+  734 root     ps
+# ifconINFO: [down] PULL_ACK received in 0 ms
+# ifconfig 
+eth0      Link encap:Ethernet  HWaddr 7E:19:96:01:79:82  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:342 (342.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:94 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:94 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:4713 (4.6 KiB)  TX bytes:4713 (4.6 KiB)
+
+# 
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:65144¦Ìs) - drift=6379¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:12:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 60 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:12:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+[INFO] Fri Jan  7 03:12:35 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+[ERROR] Fri Jan  7 03:12:35 2005 src/dgram-tcp-plain.c:49:plain_connect(): get host loraflow.io
+[WARN] Fri Jan  7 03:12:35 2005 src/dgram-tcp.c:104:associate(): cannot connect tcp://loraflow.io:4881
+pppd call INFO: [down] PULL_ACK received in 0 ms
+t[INFO] Fri Jan  7 03:12:43 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+[ERROR] Fri Jan  7 03:12:43 2005 src/dgram-tcp-plain.c:49:plain_connect(): get host loraflow.io
+[WARN] Fri Jan  7 03:12:43 2005 src/dgram-tcp.c:104:associate(): cannot connect tcp://loraflow.io:4881
+d-d
+# cd /etc/ppp/
+# ls
+peers
+# cd peers/
+# ls
+disconnect-chat  td-connect-chat  td-dailer
+# [INFO] Fri Jan  7 03:12:52 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+[ERROR] Fri Jan  7 03:12:52 2005 src/dgram-tcp-plain.c:49:plain_connect(): get host loraflow.io
+[WARN] Fri Jan  7 03:12:52 2005 src/dgram-tcp.c:104:associate(): cannot connect tcp://loraflow.io:4881
+INFO: [down] PULL_ACK received in 0 ms
+
+# pppd call td-
+td-connect-chat  td-dailer
+# pppd call td-dailer 
+# ps
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    4 root     [kworker/0:0]
+    5 root     [kworker/0:0H]
+    6 root     [kworker/u2:0]
+    7 root     [rcu_preempt]
+    8 root     [rcu_bh]
+    9 root     [rcu_sched]
+   10 root     [khelper]
+   11 root     [kdevtmpfs]
+   12 root     [netns]
+   13 root     [kworker/u2:1]
+  165 root     [writeback]
+  167 root     [bioset]
+  169 root     [kblockd]
+  180 root     [khubd]
+  192 root     [kworker/0:1]
+  194 root     [cfg80211]
+  276 root     [rpciod]
+  283 root     [kswapd0]
+  331 root     [fsnotify_mark]
+  334 root     [nfsiod]
+  340 root     [crypto]
+  438 root     [nuc970-spi0]
+  443 root     [nuc970-spi1]
+  527 root     [deferwq]
+  534 root     [ubi_bgt0d]
+  538 root     [ubifs_bgt0_0]
+  550 root     /sbin/syslogd -n
+  553 root     /sbin/klogd -n
+  572 nobody   /usr/sbin/gpsd -P /var/run/gpsd.pid /dev/ttyS1
+  579 root     /usr/sbin/sshd
+  607 root     [ubi_bgt1d]
+  610 root     [ubifs_bgt1_1]
+  611 root     -sh
+  650 root     ./senzflow-lorabridge
+  666 root     ./lora_pkt_fwd
+  681 root     [kworker/u2:2]
+  741 root     pppd call td-dailer
+  746 root     ps
+# [INFO] Fri Jan  7 03:13:02 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+INFO: [down] PULL_ACK received in 0 ms
+ps
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    4 root     [kworker/0:0]
+    5 root     [kworker/0:0H]
+    6 root     [kworker/u2:0]
+    7 root     [rcu_preempt]
+    8 root     [rcu_bh]
+    9 root     [rcu_sched]
+   10 root     [khelper]
+   11 root     [kdevtmpfs]
+   12 root     [netns]
+   13 root     [kworker/u2:1]
+  165 root     [writeback]
+  167 root     [bioset]
+  169 root     [kblockd]
+  180 root     [khubd]
+  192 root     [kworker/0:1]
+  194 root     [cfg80211]
+  276 root     [rpciod]
+  283 root     [kswapd0]
+  331 root     [fsnotify_mark]
+  334 root     [nfsiod]
+  340 root     [crypto]
+  438 root     [nuc970-spi0]
+  443 root     [nuc970-spi1]
+  527 root     [deferwq]
+  534 root     [ubi_bgt0d]
+  538 root     [ubifs_bgt0_0]
+  550 root     /sbin/syslogd -n
+  553 root     /sbin/klogd -n
+  572 nobody   /usr/sbin/gpsd -P /var/run/gpsd.pid /dev/ttyS1
+  579 root     /usr/sbin/sshd
+  607 root     [ubi_bgt1d]
+  610 root     [ubifs_bgt1_1]
+  611 root     -sh
+  650 root     ./senzflow-lorabridge
+  666 root     ./lora_pkt_fwd
+  681 root     [kworker/u2:2]
+  741 root     pppd call td-dailer
+  747 root     ps
+# 
+##### 2005-01-07 03:13:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 90 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:13:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+[INFO] Fri Jan  7 03:13:07 2005 src/dgram-tcp.c:102:associate(): connected with tcp://loraflow.io:4881 via [tcp socket 5]
+
+# ifconfig INFO: [down] PULL_ACK received in 0 ms
+
+eth0      Link encap:Ethernet  HWaddr 7E:19:96:01:79:82  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:342 (342.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:106 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:106 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5435 (5.3 KiB)  TX bytes:5435 (5.3 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.156.129.184  P-t-P:10.64.64.64  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:11 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:12 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:536 (536.0 B)  TX bytes:862 (862.0 B)
+
+# ifconfig 
+eth0      Link encap:Ethernet  HWaddr 7E:19:96:01:79:82  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:342 (342.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:106 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:106 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5435 (5.3 KiB)  TX bytes:5435 (5.3 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.156.129.184  P-t-P:10.64.64.64  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:11 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:12 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:536 (536.0 B)  TX bytes:862 (862.0 B)
+
+# INFO: [down] PULL_ACK received in 0 ms
+
+# ifconfig 
+eth0      Link encap:Ethernet  HWaddr 7E:19:96:01:79:82  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:342 (342.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:108 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:108 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5507 (5.3 KiB)  TX bytes:5507 (5.3 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.156.129.184  P-t-P:10.64.64.64  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:11 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:12 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:536 (536.0 B)  TX bytes:862 (862.0 B)
+
+# ps
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    4 root     [kworker/0:0]
+    5 root     [kworker/0:0H]
+    6 root     [kworker/u2:0]
+    7 root     [rcu_preempt]
+    8 root     [rcu_bh]
+    9 root     [rcu_sched]
+   10 root     [khelper]
+   11 root     [kdevtmpfs]
+   12 root     [netns]
+   13 root     [kworker/u2:1]
+  165 root     [writeback]
+  167 root     [bioset]
+  169 root     [kblockd]
+  180 root     [khubd]
+  192 root     [kworker/0:1]
+  194 root     [cfg80211]
+  276 root     [rpciod]
+  283 root     [kswapd0]
+  331 root     [fsnotify_mark]
+  334 root     [nfsiod]
+  340 root     [crypto]
+  438 root     [nuc970-spi0]
+  443 root     [nuc970-spi1]
+  527 root     [deferwq]
+  534 root     [ubi_bgt0d]
+  538 root     [ubifs_bgt0_0]
+  550 root     /sbin/syslogd -n
+  553 root     /sbin/klogd -n
+  572 nobody   /usr/sbin/gpsd -P /var/run/gpsd.pid /dev/ttyS1
+  579 root     /usr/sbin/sshd
+  607 root     [ubi_bgt1d]
+  610 root     [ubifs_bgt1_1]
+  611 root     -sh
+  650 root     ./senzflow-lorabridge
+  666 root     ./lora_pkt_fwd
+  681 root     [kworker/u2:2]
+  741 root     pppd call td-dailer
+  751 root     ps
+# INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:71570¦Ìs) - drift=6426¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:13:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 120 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:13:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 1 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+# ifconfig 
+eth0      Link encap:Ethernet  HWaddr 7E:19:96:01:79:82  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:342 (342.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:114 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:114 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5868 (5.7 KiB)  TX bytes:5868 (5.7 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.156.129.184  P-t-P:10.64.64.64  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:13 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:588 (588.0 B)  TX bytes:1075 (1.0 KiB)
+
+# ifconfig 
+eth0      Link encap:Ethernet  HWaddr 7E:19:96:01:79:82  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:342 (342.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:114 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:114 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5868 (5.7 KiB)  TX bytes:5868 (5.7 KiB)
+
+ppp0      Link encap:Point-to-Point Protocol  
+          inet addr:10.156.129.184  P-t-P:10.64.64.64  Mask:255.255.255.255
+          UP POINTOPOINT RUNNING NOARP MULTICAST  MTU:1500  Metric:1
+          RX packets:12 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:13 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:3 
+          RX bytes:588 (588.0 B)  TX bytes:1075 (1.0 KiB)
+
+# ifconfig INFO: [down] PULL_ACK received in 0 ms
+# ps
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    4 root     [kworker/0:0]
+    5 root     [kworker/0:0H]
+    6 root     [kworker/u2:0]
+    7 root     [rcu_preempt]
+    8 root     [rcu_bh]
+    9 root     [rcu_sched]
+   10 root     [khelper]
+   11 root     [kdevtmpfs]
+   12 root     [netns]
+   13 root     [kworker/u2:1]
+  165 root     [writeback]
+  167 root     [bioset]
+  169 root     [kblockd]
+  180 root     [khubd]
+  192 root     [kworker/0:1]
+  194 root     [cfg80211]
+  276 root     [rpciod]
+  283 root     [kswapd0]
+  331 root     [fsnotify_mark]
+  334 root     [nfsiod]
+  340 root     [crypto]
+  438 root     [nuc970-spi0]
+  443 root     [nuc970-spi1]
+  527 root     [deferwq]
+  534 root     [ubi_bgt0d]
+  538 root     [ubifs_bgt0_0]
+  550 root     /sbin/syslogd -n
+  553 root     /sbin/klogd -n
+  572 nobody   /usr/sbin/gpsd -P /var/run/gpsd.pid /dev/ttyS1
+  579 root     /usr/sbin/sshd
+  607 root     [ubi_bgt1d]
+  610 root     [ubifs_bgt1_1]
+  611 root     -sh
+  650 root     ./senzflow-lorabridge
+  666 root     ./lora_pkt_fwd
+  681 root     [kworker/u2:2]
+  741 root     pppd call td-dailer
+  754 root     ps
+# INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:14:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 150 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:14:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:77904¦Ìs) - drift=6334¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:14:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 180 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:14:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+# ps
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    4 root     [kworker/0:0]
+    5 root     [kworker/0:0H]
+    6 root     [kworker/u2:0]
+    7 root     [rcu_preempt]
+    8 root     [rcu_bh]
+    9 root     [rcu_sched]
+   10 root     [khelper]
+   11 root     [kdevtmpfs]
+   12 root     [netns]
+   13 root     [kworker/u2:1]
+  165 root     [writeback]
+  167 root     [bioset]
+  169 root     [kblockd]
+  180 root     [khubd]
+  192 root     [kworker/0:1]
+  194 root     [cfg80211]
+  276 root     [rpciod]
+  283 root     [kswapd0]
+  331 root     [fsnotify_mark]
+  334 root     [nfsiod]
+  340 root     [crypto]
+  438 root     [nuc970-spi0]
+  443 root     [nuc970-spi1]
+  527 root     [deferwq]
+  534 root     [ubi_bgt0d]
+  538 root     [ubifs_bgt0_0]
+  550 root     /sbin/syslogd -n
+  553 root     /sbin/klogd -n
+  572 nobody   /usr/sbin/gpsd -P /var/run/gpsd.pid /dev/ttyS1
+  579 root     /usr/sbin/sshd
+  607 root     [ubi_bgt1d]
+  610 root     [ubifs_bgt1_1]
+  611 root     -sh
+  650 root     ./senzflow-lorabridge
+  666 root     ./lora_pkt_fwd
+  681 root     [kworker/u2:2]
+  741 root     pppd call td-dailer
+  755 root     ps
+# INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:15:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 210 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:15:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+
+# ls
+disconnect-chat  td-connect-chat  td-dailer
+# INFO: [down] PULL_ACK received in 0 ms
+
+# INFO: [down] PULL_ACK received in 0 ms
+
+# 
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:84398¦Ìs) - drift=6494¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:15:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 2 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 240 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:15:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+# 
+# ls
+disconnect-chat  td-connect-chat  td-dailer
+# INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:16:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 270 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:16:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 1 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:90890¦Ìs) - drift=6492¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:16:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 300 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:16:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 1 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:17:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 330 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:17:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+[WARN] Fri Jan  7 03:17:19 2005 src/dgram-tcp.c:258:tcp_client_daemon_write(): heartbeat timeout (604)
+[ERROR] Fri Jan  7 03:17:19 2005 src/dgram-tcp.c:290:tcp_client_daemon_write(): errno=0(Success) tcp write fd tcp socket 5
+[INFO] Fri Jan  7 03:17:19 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+[INFO] Fri Jan  7 03:17:21 2005 src/dgram-tcp.c:102:associate(): connected with tcp://loraflow.io:4881 via [tcp socket 5]
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:97319¦Ìs) - drift=6429¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:17:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 360 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:17:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+
+# ps'INFO: [down] PULL_ACK received in 0 ms
+# ps'INFO: [down] PULL_ACK received in 0 ms
+PID   USER     COMMAND
+    1 root     init
+    2 root     [kthreadd]
+    3 root     [ksoftirqd/0]
+    4 root     [kworker/0:0]
+    5 root     [kworker/0:0H]
+    6 root     [kworker/u2:0]
+    7 root     [rcu_preempt]
+    8 root     [rcu_bh]
+    9 root     [rcu_sched]
+   10 root     [khelper]
+   11 root     [kdevtmpfs]
+   12 root     [netns]
+  165 root     [writeback]
+  167 root     [bioset]
+  169 root     [kblockd]
+  180 root     [khubd]
+  192 root     [kworker/0:1]
+  194 root     [cfg80211]
+  276 root     [rpciod]
+  283 root     [kswapd0]
+  331 root     [fsnotify_mark]
+  334 root     [nfsiod]
+  340 root     [crypto]
+  438 root     [nuc970-spi0]
+  443 root     [nuc970-spi1]
+  527 root     [deferwq]
+  534 root     [ubi_bgt0d]
+  538 root     [ubifs_bgt0_0]
+  550 root     /sbin/syslogd -n
+  553 root     /sbin/klogd -n
+  572 nobody   /usr/sbin/gpsd -P /var/run/gpsd.pid /dev/ttyS1
+  579 root     /usr/sbin/sshd
+  607 root     [ubi_bgt1d]
+  610 root     [ubifs_bgt1_1]
+  611 root     -sh
+  650 root     ./senzflow-lorabridge
+  666 root     ./lora_pkt_fwd
+  681 root     [kworker/u2:2]
+  741 root     pppd call td-dailer
+  758 root     ps
+# INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:18:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 390 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:18:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:103767¦Ìs) - drift=6448¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:18:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 420 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:18:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 1 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:19:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 450 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:19:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:110237¦Ìs) - drift=6470¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:19:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 480 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:19:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:20:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 510 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:20:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:116647¦Ìs) - drift=6410¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:20:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 540 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:20:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:21:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 1
+# CRC_OK: 0.00%, CRC_FAIL: 100.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 570 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:21:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":1,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:123175¦Ìs) - drift=6528¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:21:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 600 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:21:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 1 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:22:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 630 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:22:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+[WARN] Fri Jan  7 03:22:22 2005 src/dgram-tcp.c:258:tcp_client_daemon_write(): heartbeat timeout (907)
+[ERROR] Fri Jan  7 03:22:22 2005 src/dgram-tcp.c:290:tcp_client_daemon_write(): errno=0(Success) tcp write fd tcp socket 5
+[INFO] Fri Jan  7 03:22:22 2005 src/dgram-tcp.c:84:associate(): connecting tcp://loraflow.io:4881
+INFO: [down] PULL_ACK received in 0 ms
+[INFO] Fri Jan  7 03:22:24 2005 src/dgram-tcp.c:102:associate(): connected with tcp://loraflow.io:4881 via [tcp socket 5]
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:129643¦Ìs) - drift=6468¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:22:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 660 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:22:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 1 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:23:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 690 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:23:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+INFO: Disabling GPS mode for concentrator's counter...
+INFO: host/sx1301 time offset=(1105067192s:136092¦Ìs) - drift=6449¦Ìs
+INFO: Enabling GPS mode for concentrator's counter.
+
+
+##### 2005-01-07 03:23:34 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 3 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 720 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:23:34 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+##### 2005-01-07 03:24:04 GMT #####
+### [UPSTREAM] ###
+# RF packets received by concentrator: 0
+# CRC_OK: 0.00%, CRC_FAIL: 0.00%, NO_CRC: 0.00%
+# RF packets forwarded: 0 (0 bytes)
+# PUSH_DATA datagrams sent: 1 (157 bytes)
+# PUSH_DATA acknowledged: 100.00%
+### [DOWNSTREAM] ###
+# PULL_DATA sent: 2 (100.00% acknowledged)
+# PULL_RESP(onse) datagrams received: 0 (0 bytes)
+# RF packets sent to concentrator: 0 (0 bytes)
+# TX errors: 0
+# BEACON queued: 0
+# BEACON sent so far: 0
+# BEACON rejected: 0
+### [JIT] ###
+src/jitqueue.c:511:jit_print_queue(): INFO: [jit] queue is empty
+### [GPS] ###
+# Invalid time reference (age: 750 sec)
+# GPS coordinates: latitude 30.55187, longitude 104.06800, altitude 499 m
+##### END #####
+
+JSON up: {"stat":{"time":"2005-01-07 03:24:04 GMT","lati":30.55187,"long":104.06800,"alti":499,"rxnb":0,"rxok":0,"rxfw":0,"ackr":100.0,"dwnb":0,"txnb":0}}
+INFO: [up] PUSH_ACK received in 1 ms
+INFO: [down] PULL_ACK received in 0 ms
+
+[END] 2017/2/16 15:05:53

@@ -31,7 +31,7 @@
 #include <poll.h>
 #include <string.h>
 #include <sys/socket.h>
-
+ #include <stdlib.h> /* strtod  must use this */
 #define  LOG_TAG  "athr_gps"
 
 //#include <cutils/log.h>
@@ -332,7 +332,7 @@ str2float( const char*  p, const char*  end )
         return 0.;
 
     memcpy( temp, p, len );
-    temp[len] = 0;
+    temp[len-1] = 0;
     return strtod( temp, NULL );
 }
 
