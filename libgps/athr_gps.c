@@ -1087,12 +1087,20 @@ void gps_wakeup(GpsState *state)
 		}
 		else
 		{
+            gps_opentty(state);
 			D("Send WAKEUP command to GPS\n");
 			sleep_lock = time((time_t*)NULL);
 			/* send $PUNV,WAKEUP command*/
             if (state->gps_control_fd <= 0)
             {
-                state->gps_control_fd = open( prop_control, O_RDWR | O_NOCTTY );
+                if (access(prop_control, R_OK) == 0)
+                {
+                    state->gps_control_fd = open( prop_control, O_RDWR | O_NOCTTY );
+                }
+                else
+                {
+                    state->gps_control_fd = -1;
+                }
                 if (state->gps_control_fd < 0)
                 {
                     printf("open gps control fail\n");
