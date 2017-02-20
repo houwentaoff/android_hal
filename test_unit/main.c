@@ -23,7 +23,7 @@
 #include <stdlib.h>
 #include <pthread.h>
 #include <math.h>
-#include "gpio.h"
+//#include "gpio.h"
 
 static const GpsInterface* sGpsInterface = NULL;
 
@@ -140,8 +140,8 @@ static void status_callback(GpsStatus* status)
 
 }
 
-#define LED1   GPIO_TO_PIN(1,4)
-#define LED2   GPIO_TO_PIN(9,2)
+//#define LED1   GPIO_TO_PIN(1,4)
+//#define LED2   GPIO_TO_PIN(9,2)
 
 static void sv_status_callback(GpsSvStatus* sv_status)
 {
@@ -150,21 +150,21 @@ static void sv_status_callback(GpsSvStatus* sv_status)
     {
         if (sv_status->num_svs <= 3)
         {
-            int value = gpio_get_value(LED1);
+//            int value = gpio_get_value(LED1);
             sleep(1);
-            gpio_set_value(LED1, value == GPIO_HIGH ? GPIO_LOW : GPIO_HIGH);
+//            gpio_set_value(LED1, value == GPIO_HIGH ? GPIO_LOW : GPIO_HIGH);
         }
         else
         {
-            int value = gpio_get_value(LED2);
+//            int value = gpio_get_value(LED2);
             sleep(1);            
-            gpio_set_value(LED2, value == GPIO_HIGH ? GPIO_LOW : GPIO_HIGH);
+//            gpio_set_value(LED2, value == GPIO_HIGH ? GPIO_LOW : GPIO_HIGH);
         }
     }
 }
 static void nmea_callback(GpsUtcTime timestamp, const char* nmea, int length)
 {
-    printf("==>%s joy : nmea callback: %s  len %d\n", __FUNCTION__, nmea, length);
+    //printf("==>%s joy : nmea callback: %s  len %d\n", __FUNCTION__, nmea, length);
 }
 static void set_capabilities_callback(uint32_t capabilities)
 {
@@ -297,20 +297,22 @@ int main ( int argc, char *argv[] )
     android_location_GpsLocationProvider_init();
     android_location_GpsLocationProvider_set_position_mode(GPS_POSITION_MODE_STANDALONE, 0, 3000, 0, 0);
     android_location_GpsLocationProvider_start();
-    if (gpio_export(LED1) < 0)
-    {
-        
-    }
-    if (gpio_export(LED2) < 0)
-    {
-        
-    }
-    gpio_direction_output(LED1, 1);
-    gpio_direction_output(LED2, 1);
+//    if (gpio_export(LED1) < 0)
+//    {
+//        
+//    }
+//    if (gpio_export(LED2) < 0)
+//    {
+//        
+//    }
+//    gpio_direction_output(LED1, 1);
+//    gpio_direction_output(LED2, 1);
     while (1)
     {
         sleep(30); 
-        system("echo \"at^wpdgp\" >/dev/ttyUSB4");
+//        system("echo \"at^wpdgp\" >/dev/ttyUSB4");
     }
+    android_location_GpsLocationProvider_stop();
+    android_location_GpsLocationProvider_cleanup();
     return EXIT_SUCCESS;
 }

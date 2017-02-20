@@ -145,6 +145,7 @@ int 	gps_opentty(GpsState *state);
 void 	gps_closetty(GpsState *state);
 void 	gps_wakeup(GpsState *state);
 void 	gps_sleep(GpsState *state);
+void gps_stop_position(GpsState *state);
 int 	gps_checkstate(GpsState *state);
 
 static GpsState  _gps_state[1];
@@ -161,7 +162,7 @@ static int bOrionShutdown = 0;
 
 #define GPS_DEV_LOW_BAUD  (B9600)
 #define GPS_DEV_HIGH_BAUD (B115200)
-static char   prop[PROPERTY_VALUE_MAX]="ttyUSB3"; /* control inteface need to modify. by joy */
+static char   prop[PROPERTY_VALUE_MAX]="/dev/ttyUSB3"; /* control inteface need to modify. by joy */
 
 static void gps_nmea_thread( void*  arg );
 static void gps_timer_thread( void*  arg );
@@ -970,6 +971,7 @@ gps_state_done( GpsState*  s )
     while (ret < 0 && errno == EINTR);
 
     DFR("gps waiting for command thread to stop\n");
+    gps_stop_position(s);
 	gps_sleep(s);
 
     pthread_join(s->thread, &dummy);
@@ -1001,22 +1003,68 @@ static int athr_run_hook(char* name)
     //sprintf(buf,"%s/%s" , prop, name);
     //sprintf(buf,"echo 'etc gps %s'...\n" , name);
     sprintf(buf, "/etc/init.d/S60powergps %s", name);
-    //ALOGI("%s: going to execute hook  \"%s\"\n", __FUNCTION__, buf);
-    return system(buf);
+    //printf("%s: going to execute hook  \"%s\"\n", __FUNCTION__, buf);
+    return !system(buf);
 }
 
 static int athr_run_hook_start()
 {
     return athr_run_hook("restart");
 }
-
+static int athr_run_hook_wakeup()
+{
+    return athr_run_hook("wakeup");
+}
 static int athr_run_hook_stop()
 {
     return athr_run_hook("stop");
 }
+static int athr_run_hook_sleep()
+{
+    return athr_run_hook("sleep");
+}
 
 
 static char   prop_control[PROPERTY_VALUE_MAX]="/dev/ttyUSB4"; /* control inteface need to modify. by joy */
+
+void gps_start_position(GpsState *state)
+{
+    gps_state_lock_fix(state);
+    D("Send start Positioning Session command to GPS\n");
+    if (state->gps_control_fd <= 0)
+    {
+        state->gps_control_fd = open( prop_control, O_RDWR | O_NOCTTY );
+        if (state->gps_control_fd < 0)
+        {
+            printf("open gps control fail\n");
+        }
+    }
+
+    if (write(state->gps_control_fd, "at^wpdgp\r\n", 10) < 0)
+    {
+        D("Send start Positioning Session command ERROR!\n");
+    }
+    gps_state_unlock_fix(state);
+}
+void gps_stop_position(GpsState *state)
+{
+    gps_state_lock_fix(state);
+    D("Send Terminate Positioning Session command to GPS\n");
+    if (state->gps_control_fd <= 0)
+    {
+        state->gps_control_fd = open( prop_control, O_RDWR | O_NOCTTY );
+        if (state->gps_control_fd < 0)
+        {
+            printf("open gps control fail\n");
+        }
+    }
+
+    if (write(state->gps_control_fd, "AT^WPEND\r\n", 10) < 0)
+    {
+        D("Send Terminate Positioning Session command ERROR!\n");
+    }
+    gps_state_unlock_fix(state);
+}
 
 void gps_wakeup(GpsState *state)
 {
@@ -1024,9 +1072,16 @@ void gps_wakeup(GpsState *state)
 	{
 		gps_state_lock_fix(state);
 
-		gps_opentty(state);
+		if (gps_opentty(state) < 0)
+		{
+            if (access(prop, R_OK) != 0)
+            {
+                athr_run_hook_start();
+                gps_opentty(state);
+            }
+		}
 
-		if (athr_run_hook_start())
+		if (athr_run_hook_wakeup())
 		{
 			D("%s: Hook says: quit now\n", __FUNCTION__);
 		}
@@ -1058,7 +1113,7 @@ void gps_wakeup(GpsState *state)
 
 void gps_sleep(GpsState *state)
 {
-	if (athr_run_hook_stop()) {
+	if (athr_run_hook_sleep()) {
 		D("%s: Hook says: quit now", __FUNCTION__);
 		gps_state_lock_fix(state);
 		started = 0;
@@ -1258,7 +1313,9 @@ gps_state_thread( void*  arg )
                             started = 1;
                             state->init = STATE_START;
 							/* handle wakeup routine*/
-							gps_wakeup(state);
+                            gps_wakeup(state);
+                            gps_start_position(state);
+							
                         }
 						else
 							D("LM already start\n");
@@ -1326,6 +1383,7 @@ gps_nmea_thread( void*  arg )
 			sleep(5);
 			GPS_STATUS_CB(state->callbacks, GPS_STATUS_SESSION_BEGIN);
 			gps_wakeup(state);
+            gps_start_position(state);
 			nmea_reader_init( reader );
 			bOrionShutdown = 0;
 		}
@@ -1464,6 +1522,7 @@ gps_timer_thread( void*  arg )
 
 		if( state->init == STATE_INIT && lastcmd == CMD_STOP && started == 1)
 		{
+            gps_stop_position(state);
 			gps_sleep(state);
 		}
 		else
