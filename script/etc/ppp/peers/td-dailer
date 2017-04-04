@@ -1,0 +1,25 @@
+debug
+logfile /var/log/pppd.log
+lock
+/dev/ttyUSB0
+115200
+local
+user "card"
+password "card"
+crtscts
+show-password
+usepeerdns
+noauth
+noipdefault
+novj
+novjccomp
+noccp
+nopcomp
+noaccomp
+-chap
+defaultroute
+ipcp-accept-local
+ipcp-accept-remote
+connect '/usr/sbin/chat -v -t45 -f /etc/ppp/peers/td-connect-chat'
+disconnect '/usr/sbin/chat -s -v -f /etc/ppp/peers/disconnect-chat'
+
